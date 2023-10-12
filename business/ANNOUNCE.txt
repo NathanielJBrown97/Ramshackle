@@ -1,1 +1,1 @@
-Today we start the first steps in building an app called Ramshackle, which will help users plan and keep track of upcoming and/or completed repairs and modifications made to their property(ies).
+Ramshackle, your go-to app for managing home repairs. We simplify the process of maintaining and repairing your home!
