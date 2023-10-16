@@ -30,6 +30,31 @@ Five respondents reported owning one property, while 2 respondents reported owni
 **Team Action:**  
 We will prioritize providing users with a way to track maintenance for a single property. If time allows, we will work on implementing a feature to track maintenance for multiple properties.
 
+# Observation 5: Do you own multiple homes?
+**Observation Statement:**
+Majority of respondents do not own multiple homes.
+**Supporting Data:**
+The number of respondents who do not own multiple homes is 87.5%.
+**Team Action:**
+We will prioritize implementing a feature to keep track of repairs for users who own a single home or property.
+  
+# Observation 6: Users Owning Multiple Homes
+**Observational Statement:**    
+The majority of respondents own one property.  
+**Supporting Data:**    
+Five respondents reported owning one property, while 2 respondents reported owning 2 or more.   
+**Team Action:**  
+We will prioritize providing users with a way to track maintenance for a single property. If time allows, we will work on implementing a feature to track maintenance for multiple properties.
+  
+
+# Observation 8: Are you currently using any application to manage your home repairs?
+**Observation Statement:**
+All respondents who took the survey do not use any application to manage their home repairs.
+**Supporting Data:**
+The number of respondents who voted no is 100%.
+**Team Action:**
+We will provide a user-friendly and easy-to-use application for users who never used an application to manage their home repairs.
+
 # Observation 9: Features Most Helpful
 **Observation Statement:**  
 Most users are interested in Invoice Uploads, Maintenance Calendar Reminders, Repair Service Provider History, Spending Tracking, and Tool/Appliance Manual Collection.  
