@@ -1,6 +1,6 @@
 # CSC 305 Group 121 Code of Conduct
-# >>>>We Docs Whoops<<<<<
-## Our Pledge
+# >>>> Docs Whoops<<<<<
+# Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
