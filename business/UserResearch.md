@@ -47,7 +47,6 @@ From this data we found that 43.8% of surveyors were very unorganized and an add
 **Team Action:**  
 With this information we will focus on developing a product that focuses on helping users keep their property information centralized.
 
-=======
 # Observation 8: Are you currently using any application to manage your home repairs?
 **Observation Statement:**
 All respondents who took the survey do not use any application to manage their home repairs.
