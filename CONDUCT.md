@@ -1,5 +1,5 @@
 # CSC 305 Group 121 Code of Conduct
-# >>>>We Worked In Docs Whoops<<<<<
+# >>>>We In Docs Whoops<<<<<
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
