@@ -64,17 +64,17 @@ More than 60% of users identified these features as being ideal, whereas the oth
 Based upon this feedback the team will prioritize these 5 features. With a priority to invoice uploads and repair service provider history, as those features garnered approximately 6.8% more interest than the other 3 features.
 
 # Observation 10: Mobile App vs. Website
-**Observation Statement:**
-A majority of users would like to be able to use both a website and an app, and the majority of the remainder would prefer an app.
-**Supporting Data:**
-56.3% of users voted to have an option for both the app and the website, and 25% of the total preferred an app. The remaining 18.8% would like a website.
-**Team Action:**
+**Observation Statement:**  
+A majority of users would like to be able to use both a website and an app, and the majority of the remainder would prefer an app.  
+**Supporting Data:**  
+56.3% of users voted to have an option for both the app and the website, and 25% of the total preferred an app. The remaining 18.8% would like a website.  
+**Team Action:**  
 This information means we will prioritize the creation of a mobile app, since this would satisfy the most users to start, and then we can follow with web development.
 
 # Observation 11: Experience with Similar Apps
-**Observation Statement:**
-A majority of users have not used an app like Ramshackle before, but many who haven’t say that they at least like the idea.
-**Supporting Data:**
-Only one of 16 responses indicated they had used an app like this. Of the remaining 15, 5 said that they like the idea or would consider using this app. Additionally most users who had input beyond yes/no indicated that documentation was an important feature.
-**Team Action:**
+**Observation Statement:**  
+A majority of users have not used an app like Ramshackle before, but many who haven’t say that they at least like the idea.  
+**Supporting Data:**  
+Only one of 16 responses indicated they had used an app like this. Of the remaining 15, 5 said that they like the idea or would consider using this app. Additionally most users who had input beyond yes/no indicated that documentation was an important feature.  
+**Team Action:**  
 This information means that a prioritized feature will be the storing of documents such as invoices, receipts, etc. for future reference.
