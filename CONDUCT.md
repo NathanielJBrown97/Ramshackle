@@ -51,7 +51,7 @@ decisions when appropriate.
 
 ## Decision Making
 
-When the team cannot agree on a decision, we will hold a vote in which at least three out of five team member’s approvals are needed to go ahead with an idea. Given the short time frame of the project, decisions should be made quickly, and questions about the direction of the project should not be left hanging in text or email chains.
+When the team cannot agree on a decision, we will hold a vote in which at least three out of five team members' approvals are needed to go ahead with an idea. Given the short time frame of the project, decisions should be made quickly, and questions about the direction of the project should not be left hanging in text or email chains.
 
 ## Attendance
 
@@ -67,7 +67,7 @@ As stated above, team members are expected to attend the three weekly class meet
 
 ## Agenda and Meeting Notes
 
-Meeting notes will be recorded by (insert a name here, I (Jonathan) am happy to do it). These notes will be shared to the meeting notes folder within the doc folder in the shared GitHub repository. 
+Meeting notes will be recorded by Jonathan. These notes will be shared to the meeting notes folder within the doc folder in the shared GitHub repository. This will provide a summary of what was discussed, accomplished, and tasking going forward. This will serve as a way for our group to document progress and allow for team members to know what happened during a meeting they may have not been able to attend. Note: This does not replace a team member reaching out to the group after an absence. They must still maintain communication and are responsible for any tasking assigned to them as to not prevent the flow of development.
 
 ## Feedback
 
