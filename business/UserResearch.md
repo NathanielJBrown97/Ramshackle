@@ -23,10 +23,10 @@ According to the user responses exactly 50% of submissions identified as being a
 As a team Ramshackle will include Renters as a demographic and tailor some aspects of the Ramshackle User Experience to them. In order to reach as many potential users as possible.
   
 # Observation 6: Users Owning Multiple Homes
-**Observational Statement:**  
-The majority of respondents own one property.
-**Supporting Data:**  
-Five respondents reported owning one property, while 2 respondents reported owning 2 or more. 
+**Observational Statement:**    
+The majority of respondents own one property.  
+**Supporting Data:**    
+Five respondents reported owning one property, while 2 respondents reported owning 2 or more.   
 **Team Action:**  
 We will prioritize providing users with a way to track maintenance for a single property. If time allows, we will work on implementing a feature to track maintenance for multiple properties.
 
