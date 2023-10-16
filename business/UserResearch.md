@@ -23,6 +23,22 @@ According to the user responses exactly 50% of submissions identified as being a
 As a team Ramshackle will include Renters as a demographic and tailor some aspects of the Ramshackle User Experience to them. In order to reach as many potential users as possible.
 
 
+# Observation 5: Do you own multiple homes?
+**Observation Statement:**
+Majority of respondents do not own multiple homes.
+**Supporting Data:**
+The number of respondents who do not own multiple homes is 87.5%.
+**Team Action:**
+We will prioritize implementing a feature to keep track of repairs for users who own a single home or property.
+
+# Observation 8: Are you currently using any application to manage your home repairs?
+**Observation Statement:**
+All respondents who took the survey do not use any application to manage their home repairs.
+**Supporting Data:**
+The number of respondents who voted no is 100%.
+**Team Action:**
+We will provide a user-friendly and easy-to-use application for users who never used an application to manage their home repairs.
+
 # Observation 9: Features Most Helpful
 **Observation Statement:**  
 Most users are interested in Invoice Uploads, Maintenance Calendar Reminders, Repair Service Provider History, Spending Tracking, and Tool/Appliance Manual Collection.  
