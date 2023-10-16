@@ -22,6 +22,22 @@ According to the user responses exactly 50% of submissions identified as being a
 **Team Action:**  
 As a team Ramshackle will include Renters as a demographic and tailor some aspects of the Ramshackle User Experience to them. In order to reach as many potential users as possible.
 
+# Observation 4: Homeowners within the last 2 years
+**Observational Statement:**  
+Most of the users were homeowners who have been homeowners of more than 2 years.  
+**Supporting Data:**  
+The number of users to responding no to being a homeowner of less than 2 years was 87.5% of the survey takers  
+**Team Action:**  
+None, Ramshackle will develop a product that will be beneficial for both new and old homeowners.
+
+# Observation 7: How Organized are you?
+**Observational Statement:**  
+From the survey we found that people heavily responded with being very unorganized.  
+**Supporting Data:**  
+From this data we found that 43.8% of surveyors were very unorganized and an additional 18.8% were somewhat unorganized.  
+**Team Action:**  
+With this information we will focus on developing a product that focuses on helping users keep their property information centralized.
+
 
 # Observation 9: Features Most Helpful
 **Observation Statement:**  
