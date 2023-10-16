@@ -22,6 +22,14 @@ According to the user responses exactly 50% of submissions identified as being a
 **Team Action:**  
 As a team Ramshackle will include Renters as a demographic and tailor some aspects of the Ramshackle User Experience to them. In order to reach as many potential users as possible.
   
+# Observation 4: Homeowners within the last 2 years
+**Observational Statement:**  
+Most of the users were homeowners who have been homeowners of more than 2 years.  
+**Supporting Data:**  
+The number of users to responding no to being a homeowner of less than 2 years was 87.5% of the survey takers  
+**Team Action:**  
+None, Ramshackle will develop a product that will be beneficial for both new and old homeowners.
+  
 # Observation 6: Users Owning Multiple Homes
 **Observational Statement:**    
 The majority of respondents own one property.  
@@ -29,31 +37,23 @@ The majority of respondents own one property.
 Five respondents reported owning one property, while 2 respondents reported owning 2 or more.   
 **Team Action:**  
 We will prioritize providing users with a way to track maintenance for a single property. If time allows, we will work on implementing a feature to track maintenance for multiple properties.
+  
 
-# Observation 5: Do you own multiple homes?
-**Observation Statement:**
-Majority of respondents do not own multiple homes.
-**Supporting Data:**
-The number of respondents who do not own multiple homes is 87.5%.
-**Team Action:**
-We will prioritize implementing a feature to keep track of repairs for users who own a single home or property.
-  
-# Observation 6: Users Owning Multiple Homes
-**Observational Statement:**    
-The majority of respondents own one property.  
-**Supporting Data:**    
-Five respondents reported owning one property, while 2 respondents reported owning 2 or more.   
+# Observation 7: How Organized are you?
+**Observational Statement:**  
+From the survey we found that people heavily responded with being very unorganized.  
+**Supporting Data:**  
+From this data we found that 43.8% of surveyors were very unorganized and an additional 18.8% were somewhat unorganized.  
 **Team Action:**  
-We will prioritize providing users with a way to track maintenance for a single property. If time allows, we will work on implementing a feature to track maintenance for multiple properties.
-  
+With this information we will focus on developing a product that focuses on helping users keep their property information centralized.
 
 # Observation 8: Are you currently using any application to manage your home repairs?
-**Observation Statement:**
-All respondents who took the survey do not use any application to manage their home repairs.
-**Supporting Data:**
-The number of respondents who voted no is 100%.
-**Team Action:**
-We will provide a user-friendly and easy-to-use application for users who never used an application to manage their home repairs.
+**Observation Statement:**  
+All respondents who took the survey do not use any application to manage their home repairs.  
+**Supporting Data:**  
+The number of respondents who voted no is 100%.  
+**Team Action:**  
+We will provide a user-friendly and easy-to-use application for users who never used an application to manage their home repairs.  
 
 # Observation 9: Features Most Helpful
 **Observation Statement:**  
