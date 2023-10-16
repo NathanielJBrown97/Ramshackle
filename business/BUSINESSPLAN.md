@@ -1,4 +1,4 @@
-#Lean Canvas Business Plan for Ramshackle - Home Repair Management App  
+# Lean Canvas Business Plan for Ramshackle - Home Repair Management App  
 Our lean canvas approach was to identify the major problems users of Ramshackle have. Ramshackle is a simple way to keep track of your home maintenance records and maintain a contact list of repair service providers that have performed past projects in your home. The primary demographics being homeowners, renters, property managers, or repair maintenance companies. The main problems these users might encounter in their traditional Ramshackle-free lifestyles are: losing contractor information or invoices, forgetting repairs they've recently completed, or losing track of what has been fixed, and where, when managing multiple properties, or even simply forgetting a repair has been scheduled (or needs to be scheduled)! Our solution to this is through the implementation of a system to log all of the user's home repair information, showcasing who made a repair and when, what was exactly repaired, and what needs to be addressed in the immediate future! With capabilities to log multiple homes and store their information separately, we increase our potential to property managers themselves! Our cost structure is virtually free as we are all working on this project for free; but our revenue streams allow for banner ads (initially) and ideally a direct charge to home repair companies. They pay the fee; users use ramshackle for free. In return Ramshackle will encourage or remind them to book with the associated home repair companies.  
   
 Link to the Template:  
@@ -9,7 +9,7 @@ https://docs.google.com/presentation/d/1ricvnaZPwV4M9V-Srzndxe67yf9PfFEnm7sXRtKr
   
   
   
-#Persona Grids  
+# Persona Grids  
 1.) New Home Owner - As a new home owner, I want to be able to log work that has been done on my house, as well as planned maintenance so that I have everything all in one convenient place. As a new home owner, I can fill out information attached to my profile representing work that has been done, and work that needs to get done. 
 - These new home owners need to be able to identify and log past repairs on their new property and properly address repairs that need to be scheduled and conducted soon. Ramshackle provides this to our users by having a profile section in which they can upload all of their past repairs on their home so that they can be recorded in the system. It will also have a section in which the user can input plans for future updates.  
   
