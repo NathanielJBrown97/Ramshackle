@@ -30,3 +30,13 @@ ACCEPTANCE CRITERIA:
     * Tenant
     * Type of maintenance
     * Estimated cost
+
+# User Story 7:  
+USER STORY: As A homeowner of more than 2 years, I WANT TO view previous projects and and who the contractor was as well as add upcoming projects.  
+ACCEPTANCE CRITERIA:  
+* Homeowners of more than 2 years can fill out information attached to their profile representing the following with key:values of:  
+ * Old repairs  
+ * Needed repairs
+ * Scheduled repairs
+ * Upload information on previous contractors
+ * get notifications of upcoming projects
