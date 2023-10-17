@@ -38,6 +38,17 @@ ACCEPTANCE CRITERIA:
     * Date of Submission
     * Type of maintenance
 
+ # User Story 5:
+ AS A Repair/Maintenance Company Owner, I WANT TO be able to record work that has been completed/needs to be completed, TO easily make a reference to or plan accordingly for the next appointment SO THAT my business is efficient.
+ ACCEPTANCE CRITERIA:
+ * Repair/maintenance company owner can view and log information into an organized table from a list of the following values:
+    * Date
+    * Location
+    * Customer
+    * Type of maintenance
+    * Past repairs
+    * Scheduled repairs   
+
 # User Story 7:  
 USER STORY: As A homeowner of more than 2 years, I WANT TO view previous projects and and who the contractor was as well as add upcoming projects.  
 ACCEPTANCE CRITERIA:  
