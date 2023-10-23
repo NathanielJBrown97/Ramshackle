@@ -1,0 +1,2 @@
+# ATTENTION GRADER ---- PLEASE READ BEFORE CONTINUING 
+Our Wireframe is located within the WIREFRAME folder. Yet again you have made changes to a week long assignment the DAY before it is due... Our prototype and work on the master version of our app is within the RAMSHACKLE_V0 folder. Please do not dock points for this. If you take a look at what we have working within the v0 folder so far, I am sure you will notice how absurd it would be to copy all of that backend and blcok work into the wireframe. (We went well beyond simply signing up / logging in. Thank you.
