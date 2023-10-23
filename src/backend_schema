@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "1TP4NjFOdEUhCYIA0c55LgdvObS2": {
+      "type": "object",
+      "properties": {
+        "BD1": { "type": "string", "format": "date" },
+        "BD2": { "type": "string", "format": "date" },
+        "BD3": { "type": "string", "format": "date" },
+        "BD4": { "type": "string", "format": "date" },
+        "BP1": { "type": "string" },
+        "BP2": { "type": "string" },
+        "BP3": { "type": "string" },
+        "KD1": { "type": "string", "format": "date" },
+        "KD2": { "type": "string", "format": "date" },
+        "KD3": { "type": "string", "format": "date" },
+        "KD4": { "type": "string", "format": "date" },
+        "KP1": { "type": "string" },
+        "KP2": { "type": "string" },
+        "KP3": { "type": "string" },
+        "KP4": { "type": "string" }
+      },
+      "required": ["BD1", "BD2", "BD3", "BD4", "BP1", "BP2", "BP3", "KD1", "KD2", "KD3", "KD4", "KP1", "KP2", "KP3", "KP4"],
+      "additionalProperties": false
+    }
+  },
+  "required": ["1TP4NjFOdEUhCYIA0c55LgdvObS2"]
+}
