@@ -5,25 +5,113 @@
     "1TP4NjFOdEUhCYIA0c55LgdvObS2": {
       "type": "object",
       "properties": {
-        "BD1": { "type": "string", "format": "date" },
-        "BD2": { "type": "string", "format": "date" },
-        "BD3": { "type": "string", "format": "date" },
-        "BD4": { "type": "string", "format": "date" },
-        "BP1": { "type": "string" },
-        "BP2": { "type": "string" },
-        "BP3": { "type": "string" },
-        "KD1": { "type": "string", "format": "date" },
-        "KD2": { "type": "string", "format": "date" },
-        "KD3": { "type": "string", "format": "date" },
-        "KD4": { "type": "string", "format": "date" },
-        "KP1": { "type": "string" },
-        "KP2": { "type": "string" },
-        "KP3": { "type": "string" },
-        "KP4": { "type": "string" }
-      },
-      "required": ["BD1", "BD2", "BD3", "BD4", "BP1", "BP2", "BP3", "KD1", "KD2", "KD3", "KD4", "KP1", "KP2", "KP3", "KP4"],
-      "additionalProperties": false
+        "bathroom": {
+          "type": "object",
+          "properties": {
+            "project1": {
+              "type": "object",
+              "properties": {
+                "BD1": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "BP1": {
+                  "type": "string"
+                }
+              }
+            },
+            "project2": {
+              "type": "object",
+              "properties": {
+                "BD2": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "BP2": {
+                  "type": "string"
+                }
+              }
+            },
+            "project3": {
+              "type": "object",
+              "properties": {
+                "BD3": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "BP3": {
+                  "type": "string"
+                }
+              }
+            },
+            "project4": {
+              "type": "object",
+              "properties": {
+                "BD4": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "BP4": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "kitchen": {
+          "type": "object",
+          "properties": {
+            "project1": {
+              "type": "object",
+              "properties": {
+                "KD1": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "KP1": {
+                  "type": "string"
+                }
+              }
+            },
+            "project2": {
+              "type": "object",
+              "properties": {
+                "KD2": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "KP2": {
+                  "type": "string"
+                }
+              }
+            },
+            "project3": {
+              "type": "object",
+              "properties": {
+                "KD3": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "KP3": {
+                  "type": "string"
+                }
+              }
+            },
+            "project4": {
+              "type": "object",
+              "properties": {
+                "KD4": {
+                  "type": "string",
+                  "format": "date"
+                },
+                "KP4": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
     }
-  },
-  "required": ["1TP4NjFOdEUhCYIA0c55LgdvObS2"]
+  }
 }
