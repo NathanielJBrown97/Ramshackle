@@ -630,7 +630,6 @@
                     "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 12,
                     "fontStyle": "italic",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -842,5 +841,5 @@
     ],
     "id": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4",
     "thunkableVersion": 266,
-    "name": "Authentication Screen"
+    "name": "Authentication_Screen"
 }
