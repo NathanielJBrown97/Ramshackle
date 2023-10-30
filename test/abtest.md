@@ -20,17 +20,17 @@ Add to your team repo’s a PBI for each A/B test. Each PBI’s content should b
 -------------------------------------------------  
 
 **A/B Test Name:**  
-**User Story Number:**  
-**Metric (HeartGrid):**
-**Hypothesis:**
-**Experiment:**  
+**User Story Number:**    
+**Metric (HeartGrid):**  
+**Hypothesis:**  
+**Experiment:**   
 **Variations:**
   
 --------------------------------------------------  
 
 **A/B Test Name:**  
 **User Story Number:**  
-**Metric (HeartGrid):**
-**Hypothesis:**
-**Experiment:**  
+**Metric (HeartGrid):**  
+**Hypothesis:**   
+**Experiment:**    
 **Variations:**
