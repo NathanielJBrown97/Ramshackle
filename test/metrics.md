@@ -1,3 +1,5 @@
+![Ramshackle Heart Framework](heart-framework.png)
+
 * metric 1 - Once metric we observe is how many people are using the applications by using Google Analytics within Google Firebase. By using this we can see how many users use site, how long they are on it for, and other information such as where in the world they were using it from. With information such as this we can design and update our app so that it can be used by a
   broad spectrum of people not just friends and family.  
   
