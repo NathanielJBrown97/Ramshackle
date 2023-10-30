@@ -16,7 +16,7 @@ The design work required to conduct htis test will be as follows; first the app 
   
 --------------------------------------------------  
 
-**A/B Test Name:**  Banner ad or Full ad (on window change)
+**A/B Test Name:**  Banner ad or Full ad (on window change)  
 **User Story Number:**  User Story 6
 **Metric (HeartGrid):**  
 The number of people who leave the app at certain pages of the app can be measured using google analytics. This information could help tell us if certain ads are pushing users away, because if they leave the app every time an interstitial ad pops onto the screen, they're clearly annoyed by these ads. Unfortunately it will be a little harder to tell if banner ads are directly driving people away, but we could track several other variables and compare between users who receive banner ads vs. those who receive interstitial ads. This could be number of projects logged, time spent on the app, and logins per day.
