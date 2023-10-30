@@ -1,4 +1,5 @@
 {
+    "id": "96ff0ecd-5794-4969-bbcf-86034312f824",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -88,6 +89,60 @@
             "name": "RAMnavImg"
         },
         {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "<--",
+                "TextColor": "rgba(12, 29, 54, 1)",
+                "FontSize": 16,
+                "CustomFont": "",
+                "BackgroundColor": "rgba(249, 204, 11, 1)",
+                "Height": 38,
+                "Width": 47,
+                "Visible": true,
+                "X": 304,
+                "Y": 4,
+                "RelativeX": 304,
+                "RelativeY": 4,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "51.697357016265705%",
+                    "top": "36.78240727291742%",
+                    "display": "flex"
+                },
+                "FontBold": true,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "e2c90258-7cd4-4958-a102-46cbb07c28ff",
+                "position": "absolute",
+                "edgeOffsets": 4
+            },
+            "children": [],
+            "id": "1faf9ff6-596d-4c99-84e7-d2254641e1ff",
+            "thunkableVersion": 425,
+            "bindings": null,
+            "name": "ReturnButt1"
+        },
+        {
             "type": "Label",
             "translatedName": "Label",
             "reactType": "Text",
@@ -161,60 +216,6 @@
             "thunkableVersion": 425,
             "bindings": null,
             "name": "KitchenPlanLabel"
-        },
-        {
-            "type": "Button",
-            "translatedName": "Button",
-            "properties": {
-                "Text": "<--",
-                "TextColor": "rgba(12, 29, 54, 1)",
-                "FontSize": 16,
-                "CustomFont": "",
-                "BackgroundColor": "rgba(249, 204, 11, 1)",
-                "Height": 38,
-                "Width": 47,
-                "Visible": true,
-                "X": 304,
-                "Y": 4,
-                "RelativeX": 304,
-                "RelativeY": 4,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "borderRadius": 15,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "51.697357016265705%",
-                    "top": "36.78240727291742%",
-                    "display": "flex"
-                },
-                "FontBold": true,
-                "FontItalic": false,
-                "Raised": false,
-                "Disabled": false,
-                "ParentId": "e2c90258-7cd4-4958-a102-46cbb07c28ff",
-                "position": "absolute",
-                "edgeOffsets": 4
-            },
-            "children": [],
-            "id": "1faf9ff6-596d-4c99-84e7-d2254641e1ff",
-            "thunkableVersion": 425,
-            "bindings": null,
-            "name": "ReturnButt1"
         },
         {
             "type": "Label",
@@ -2499,7 +2500,6 @@
             "name": "ScumAd2"
         }
     ],
-    "id": "96ff0ecd-5794-4969-bbcf-86034312f824",
     "thunkableVersion": 267,
     "name": "Kitchen_Screen"
 }
