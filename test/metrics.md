@@ -7,4 +7,4 @@
    
 * metric 4 -  
   
-* metric 5 - 
+* metric 5 - One metric we can observe is the A/B Testing on light mode vs. dark mode for the UI. Hypothetically, we can assume users would heavily prefer light mode but there also may be users who believe light mode is too bright and would prefer a dark mode. We could experiment by using Google Analytics within Firebase to track how many users toggle to light/dark mode. We can utilize the measurement of results to decide whether the feature should be implemented into the app or not. 
