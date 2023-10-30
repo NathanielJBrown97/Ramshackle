@@ -16,7 +16,8 @@ Detail out the experiment setup that you will use to test your hypothesis using 
 In this section, describe what variations you would like to test. Layout the design work related and add diagrams, mockups and designs related to the confirmed variation that you’d like to test.
 
 Add to your team repo’s a PBI for each A/B test. Each PBI’s content should be a summary of one of the A/B tests with a reference to ABTEST.md for detail.   Add a label to your repo for “A/B Test”. Put that label on the PBI instead of the “User Story” label that you have typically used.  
-  
+
+-------------------------------------------------  
 
 **A/B Test Name:**  
 **User Story Number:**  
@@ -24,6 +25,8 @@ Add to your team repo’s a PBI for each A/B test. Each PBI’s content should b
 **Hypothesis:**
 **Experiment:**  
 **Variations:**
+  
+--------------------------------------------------  
 
 **A/B Test Name:**  
 **User Story Number:**  
