@@ -1,4 +1,5 @@
 {
+    "id": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -839,7 +840,6 @@
             "name": "FullBannerImg"
         }
     ],
-    "id": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4",
     "thunkableVersion": 266,
     "name": "Authentication_Screen"
 }
