@@ -1,4 +1,5 @@
 {
+    "id": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -435,7 +436,6 @@
             "name": "btnSave"
         }
     ],
-    "id": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e",
     "thunkableVersion": 426,
     "bindings": null,
     "name": "User Details"

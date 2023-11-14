@@ -1,4 +1,5 @@
 {
+    "id": "6a0539be-85d6-4cf3-ba2a-7880cc723db1",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -744,7 +745,6 @@
             "name": "RAMnavImg9"
         }
     ],
-    "id": "6a0539be-85d6-4cf3-ba2a-7880cc723db1",
     "thunkableVersion": 428,
     "name": "Project_Details"
 }
