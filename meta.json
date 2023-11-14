@@ -1,0 +1,359 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": [
+                        {
+                            "type": "Web API",
+                            "translatedName": "Web API",
+                            "isApi": true,
+                            "reactType": "Web",
+                            "properties": {},
+                            "children": [],
+                            "id": "9205f442-4308-4532-9913-c085c6395aaa",
+                            "thunkableVersion": 426,
+                            "name": "Web_API1"
+                        }
+                    ]
+                }
+            },
+            "assets": {
+                "653fb71a445e2ae02443baec": {
+                    "externalStorageType": "GCS",
+                    "_id": "653fb71a445e2ae02443baec",
+                    "size": "53612",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "backendURI": "/project/653fb71a445e2a4f1843baea/getasset/653fb71a445e2ae02443baec",
+                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "externalName": "users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2ae02443baec",
+                    "createdAt": "2023-09-17T00:34:09.867Z",
+                    "updatedAt": "2023-09-17T00:34:09.867Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2ae02443baec?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231114%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231114T001347Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=11a357af054e4ffd11bf5174d687f77c5ec04ff43c524f74197e0e624cbc8e1fc5708cb92dfca87272d8b35160dc368718439164b724daf23ef30adf99eb36de3149bd071d6a1ebc7e08006614e0af682a332a3fdc282f8245387a4f752acb2a39fcf6a477ed40b03136055215209569a86b4f2a17cb4a09854df4146c986beb60092fa5c3610d3252d12c1e04466c3c39c4b6cf15d309dc3d284c1042c5d091ca98fb7eea971e98455dcc1a84c92577b8097237b1b57b7307a350329b715360682026bab756f0b6d8d8b3a6c375486f1680cad9ae26a3c5686d408927cdd2a7a17643c2da335ea2febc1bf96363f51d76aa4bb6f563f040e717e68208f555b8",
+                    "signedUrlExpirationTime": 1700093627532
+                },
+                "653fb71a445e2a61f243baee": {
+                    "externalStorageType": "GCS",
+                    "_id": "653fb71a445e2a61f243baee",
+                    "size": "8828",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "Screenshot 2023-09-17 123022.png",
+                    "backendURI": "/project/653fb71a445e2a4f1843baea/getasset/653fb71a445e2a61f243baee",
+                    "name": "Screenshot 2023-09-17 123022.png",
+                    "externalName": "users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a61f243baee",
+                    "createdAt": "2023-09-17T16:31:09.188Z",
+                    "updatedAt": "2023-09-17T16:31:09.188Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a61f243baee?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231114%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231114T001347Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=444d7dc1c41ec66e75d9e78d43abf1bd78f9bc5fc601279d0d785c867ae063cae24dc9e9842738de341b0cda24bc84f609d808971bb077cca11017d3785aa346c5662b6369cb64bdf5a37ba5c6afe575977cd77ed258c61282675672659811ec3eed0c0f6654b783ad01ba7ad6ee9562801d1c95714bbe70db0049eef8d4e80ba814effcaf10a1e2eed61efcc5a691ea20452942662df4f7e3e370a5572102b5761213354b850a09398278a409e1fc6b813fbdf6644e1229717c8274f76be2e9e11da67448d7cb4fad4cfa2e6400c8cd982667d766ad612482fcb6b8a9de65ce72a853a5ccfb91a3ab79d9a7cd40539d5ea72188ae6783e664b31d21581e0ec3",
+                    "signedUrlExpirationTime": 1700093627535
+                },
+                "653fb71a445e2a10ac43baf0": {
+                    "externalStorageType": "GCS",
+                    "_id": "653fb71a445e2a10ac43baf0",
+                    "size": "28012",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "DM_banner_trans.png",
+                    "backendURI": "/project/653fb71a445e2a4f1843baea/getasset/653fb71a445e2a10ac43baf0",
+                    "name": "DM_banner_trans.png",
+                    "externalName": "users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a10ac43baf0",
+                    "createdAt": "2023-10-20T17:44:01.214Z",
+                    "updatedAt": "2023-10-20T17:44:01.214Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a10ac43baf0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231114%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231114T001347Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=653ebc6265e4bf3680e39adee71f4a3f1a827a5ef9cb8aaa6268a6d2b011bc72b27ccfca08866b533ff518f83d5b7662fb4d621d0b3955aafede9120503dfdf8795e69debb643b7df0a58d9421d522900ea769489ebf69523c3ba9d067339cf97b3f2c22cb4e7f821429a32443797b0f961f4d6e137392492504b7114e4099fa29d26e0c03c81100a470e8d4bd66f1a3327255a462906110f46bbf6e1012004279bc04680d7bfcb52974cd001b316cf1c417333c7785280acac9f54739d19ba8953944833e75735e57a7f6652aaf67b75eada841ad1df7d27ff216b8d35176a9b00fe070243a3a1cc2d2cf4d1c19193a7fb40e31505c954bf53c5c2a30035a8e",
+                    "signedUrlExpirationTime": 1700093627536
+                },
+                "653fb71a445e2aeda843baf2": {
+                    "externalStorageType": "GCS",
+                    "_id": "653fb71a445e2aeda843baf2",
+                    "size": "891",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "RAMshackle_white.png",
+                    "backendURI": "/project/653fb71a445e2a4f1843baea/getasset/653fb71a445e2aeda843baf2",
+                    "name": "RAMshackle_white.png",
+                    "externalName": "users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2aeda843baf2",
+                    "createdAt": "2023-10-20T18:03:22.163Z",
+                    "updatedAt": "2023-10-20T18:03:22.163Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2aeda843baf2?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231114%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231114T001347Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1d173a6eaeb8368d3b691f610137f900cb5d8100815773a315e8225c8f3904ba356a7df23d8d68f3d09dcc6e97c0b5386599a875c10d0771071792edb313da4146b480e33f6e4c9a34fac3fed6ec3dd72398563ac0f41de3496c312d835407c6d372f90d5d94b3fd815aef019d31e2c53387e8d9b8e7e85356e30e08f02327c5a3fbcd51db875035bdf566c9872873238ddddc5194145732147d6c81622bee863153dc8fd747eef300e496147494a44b5a3e22d0b8a38fdfc4db37b67f06f457f13f1df4b601e5440e391eb8581a18e291325780629fb2fb7a55ff425f0c1d1667194a3c216759c43ec15a10442d2fe00a91a17717c9d3b86bd09012b6112dbf",
+                    "signedUrlExpirationTime": 1700093627538
+                }
+            },
+            "backendUpgradeVersion": 23,
+            "blockly": {
+                "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "e2c90258-7cd4-4958-a102-46cbb07c28ff": {
+                    "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"component_event\" id=\"ljD56vpMo^#Bq%wrFd3X\" x=\"35\" y=\"-127\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"Dashboard\" component_type=\"Screen\" parent_id=\"undefined\" event_id=\"Opens\" was_updated=\"true\"/><field name=\"component_id\">e2c90258-7cd4-4958-a102-46cbb07c28ff</field><field name=\"event_id\">Opens</field><statement name=\"input_do\"><block type=\"setter\" id=\"62N9a#Qe}Ua/P{;8ds(|\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"NameLabel1\" parent_id=\"undefined\"/><field name=\"component_id\">d68cf3a4-ff2b-4ffa-8224-a956d6569d61</field><field name=\"field_name\">Text</field><value name=\"field_value\"><shadow type=\"text\" id=\"MsUFu`,Z0/36$ZqIwv,=\"><field name=\"TEXT\">Label</field></shadow><block type=\"variables_get_dynamic\" id=\"H3%UM|Cs_c[Ha8+KjtM0\"><field name=\"SCOPE\">CLOUD</field><value name=\"NAME\"><shadow type=\"text\" id=\"{=2OlC{bfb7XZIS([M#s\"><field name=\"TEXT\">name</field></shadow><block type=\"text_join\" id=\"(489NH1_7lj=.}g[9|t7\"><mutation items=\"2\"/><value name=\"ADD0\"><block type=\"variables_get\" id=\";b4@GPV^g`!dx!MaCvKi\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable user ID\"/><field name=\"VAR\">71e1b0fc-d23a-4771-8899-00816d2bb22a</field></block></value><value name=\"ADD1\"><block type=\"text\" id=\"]5)ExKW{RT|mK[J|{zS)\"><field name=\"TEXT\">/name</field></block></value></block></value></block></value></block></statement></block><block type=\"variables_def\" id=\"xs4e;!#.p#Gin9[`Xa{@\" x=\"30\" y=\"-2\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" no_input=\"false\" variable_uuid=\"98f41d01-f3ec-422e-92d5-a13e16152b8b\" variable_name=\"screenNav\" variable_scope=\"APP\"/><field name=\"SCOPE\">APP</field><field name=\"NAME\">screenNav</field><value name=\"VALUE\"><block type=\"text\" id=\"x7UoMQe}Y3W!0N09(%f1\"><field name=\"TEXT\"/></block></value></block><block type=\"component_event\" id=\"llj_fsXIr8:U8KR;Rtr;\" x=\"494\" y=\"4\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"NavDashboard\" component_type=\"Image\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">51601401-0b4a-43a3-832c-8786c10bf182</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"caller\" id=\"U^hZarQnbH%]@,.ZJP-r\" inline=\"false\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"Dashboard\" component_id=\"e2c90258-7cd4-4958-a102-46cbb07c28ff\" component_type=\"Screen\" function_name=\"ToggleDrawerMenu\" was_updated=\"true\"/><field name=\"component_id\">e2c90258-7cd4-4958-a102-46cbb07c28ff</field><field name=\"function_name\">ToggleDrawerMenu</field></block></statement></block><block type=\"component_event\" id=\"c:S4n2maJI~n4I!SFSC/\" x=\"28\" y=\"39\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"KitchenButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">87bc4ddb-609c-4247-be31-c0ed7698d05d</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"|suhaQHx$N3t[`-SsJ))\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"@1zL5uaG-3RLS^c6Kf^4\"><field name=\"TEXT\">Kitchen</field></block></value><next><block type=\"controls_navigate_new\" id=\"d!ht=_iSk6V{(LalPPfr\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"ZgC=~(7Bab,A_0/cs}#^\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"3t|VG2KqHS!g!g2(0gYB\" x=\"30\" y=\"164\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"BathroomButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">223725cd-388d-4627-b9e3-bbcaaa52a7aa</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"Y4)^r1HSd@iAZ5Xl:EIz\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"#,!3?)Tf$lMJ{iAd0yqa\"><field name=\"TEXT\">Bathroom</field></block></value><next><block type=\"controls_navigate_new\" id=\"rQpIBpEhYZD[r2e$]_36\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"Ln.Jh7/QNm0Q|_,zi|Y.\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\".:i9[j|Y!Y}%{1`7Qm.x\" x=\"32\" y=\"284\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"OutButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">c3b0eaa8-0721-48bc-bc54-26b45d846083</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\";~(dJYZE6c!{[[iCgm,!\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"SV6{UBS(Ud3HdrYLfe#N\"><field name=\"TEXT\">Outside</field></block></value><next><block type=\"controls_navigate_new\" id=\"ArcFG0thwuM:+eq_/P}d\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"puT0Nh0L?`z%nH~uu+#c\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"`$@eame}+F=9Eq6)-U+s\" x=\"46\" y=\"405\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"LivingButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">941c5445-a6a5-4520-9ec8-e75dfbd09b1b</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"oGzTvhm-oQV7N=i~/5aO\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\":lm[4eW~tN=Ie`z`iM@b\"><field name=\"TEXT\">Living Room</field></block></value><next><block type=\"controls_navigate_new\" id=\"Zlf{ns[^x`3T;|~wj*AZ\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"Pf)6m%/lDsN)jNzu,,~X\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"]bMw{Yw.*XK{5qW~z1Ap\" x=\"46\" y=\"530\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"DiningButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">6806ecab-83fd-4bb0-93eb-b23c892c8584</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"c7k;x+apoqC5^KZd0B`x\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"`sjGwcp$iA=wO|/Wu.cN\"><field name=\"TEXT\">Dining Room</field></block></value><next><block type=\"controls_navigate_new\" id=\"ai%ewlgY/am,IujXC7K9\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"Ts?6/mt4Y!yZ:^z2uSe.\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"St%~#PuV`_H=c2;4*rlT\" x=\"46\" y=\"648\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"HouseButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">2e110243-9d79-4d80-9f24-fd229414ed93</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"cxX?ohd5LJ5G~:vC#U-h\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"z0$l_lbM0^fSd2K]+g[O\"><field name=\"TEXT\">Home</field></block></value><next><block type=\"controls_navigate_new\" id=\"VR/p`w+GzA~Pt2aoZ*4*\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"ZvF28o(II[YhZA%b1$Y9\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block></xml>",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb": {
+                    "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"component_event\" id=\"Ia*RFGpj[G:jS|_}zF4O\" x=\"39\" y=\"51\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"RAMnavImg6\" component_type=\"Image\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">6584b2e2-ef4d-4c75-95c1-74871d3dc77b</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"caller\" id=\"=J99F2q~B/FD:r1*#;bh\" inline=\"false\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"Logout\" component_id=\"4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb\" component_type=\"Screen\" function_name=\"ToggleDrawerMenu\" was_updated=\"true\"/><field name=\"component_id\">4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb</field><field name=\"function_name\">ToggleDrawerMenu</field></block></statement></block><block type=\"component_event\" id=\"Gh2Ab{@Gu*6w~h5?]Ixw\" x=\"44\" y=\"158\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"btnLogout\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">7d5479f5-2081-4697-878b-6b79b2d1cfdd</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"signin_sign_out\" id=\"7g3Bk]nq/wl{:{Qre`}w\"><next><block type=\"controls_navigate_new\" id=\"=xMo`2FlBk_mho4g5~nC\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"=oTQ^|32UcK])wd.qfI+\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Authentication_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">9c1ecdcc-ae5e-4f66-80ff-3750b25475f4</field></shadow></value></block></next></block></statement></block></xml>",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "653fb71a445e2a4f1843baea": {},
+                "6fc9599b-a201-4f81-a5f6-a92e35504888": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e": {
+                    "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"component_event\" id=\"Lf~E5`70V^(Is}?=sfe9\" x=\"506\" y=\"41\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"NavUserDetails\" component_type=\"Image\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">6553081b-92dc-4295-a908-c26e9448ffe7</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"caller\" id=\"B!_0O4HD$)`|G$WJaMsv\" inline=\"false\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"User Details\" component_id=\"1c03a698-01d2-4eaa-a4e2-e49fd6161e0e\" component_type=\"Screen\" function_name=\"ToggleDrawerMenu\" was_updated=\"true\"/><field name=\"component_id\">1c03a698-01d2-4eaa-a4e2-e49fd6161e0e</field><field name=\"function_name\">ToggleDrawerMenu</field></block></statement></block><block type=\"variables_def\" id=\"eHecMy_)Nd_V1r[`3=Ri\" x=\"55\" y=\"108\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" no_input=\"true\" variable_uuid=\"97226036-bb92-4e0c-8eb3-133648478079\" variable_name=\"name\" variable_scope=\"CLOUD\"/><field name=\"SCOPE\">CLOUD</field><field name=\"NAME\">name</field></block><block type=\"component_event\" id=\"Gh2Ab{@Gu*6w~h5?]Ixw\" x=\"44\" y=\"158\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"btnSave\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">542c7202-2a39-4667-ae45-8e9662f543ce</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"controls_if\" id=\"t/RzzO;x6R{}]}x`--{R\"><mutation else=\"1\"/><value name=\"IF0\"><block type=\"text_isEmpty\" id=\"7?D}Y/KPm2D8uPb@RS@3\"><value name=\"VALUE\"><shadow type=\"text\" id=\".v0nZOLv}?e{SoVz)+Px\"><field name=\"TEXT\"/></shadow><block type=\"set_get\" id=\"rw!+8*E0dGUL=FFwYwkz\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"txtName\" parent_id=\"undefined\"/><field name=\"component_id\">9577db35-be1f-4d2b-b6b6-5ac7d261b423</field><field name=\"field_name\">Text</field></block></value></block></value><statement name=\"DO0\"><block type=\"setter\" id=\"tD*k6d4qcxN4U8bqhc8G\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"ErrorWindowLabel1\" parent_id=\"undefined\"/><field name=\"component_id\">11655753-815b-4a22-aa33-1cc9bb857139</field><field name=\"field_name\">Text</field><value name=\"field_value\"><shadow type=\"text\" id=\"Vpmt}UAL0X5wB?t6jZYp\"><field name=\"TEXT\">Name cannot be blank.</field></shadow></value></block></statement><statement name=\"ELSE\"><block type=\"variables_set_dynamic\" id=\"nix|4xwY9AZX=GD$b8yV\"><field name=\"SCOPE\">CLOUD</field><value name=\"NAME\"><shadow type=\"text\" id=\"`pLTE$ZFI,|]Tci8#aO%\"><field name=\"TEXT\">name</field></shadow><block type=\"text_join\" id=\"i|m^r~/#0$43$Q:WR}Hm\"><mutation items=\"2\"/><value name=\"ADD0\"><block type=\"variables_get\" id=\"z{z3pox_l]4F`Du+KA/+\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable user ID\"/><field name=\"VAR\">71e1b0fc-d23a-4771-8899-00816d2bb22a</field></block></value><value name=\"ADD1\"><block type=\"text\" id=\"k?-Wz*uis;a61=Qn*di/\"><field name=\"TEXT\">/name</field></block></value></block></value><value name=\"VALUE\"><block type=\"set_get\" id=\"*R]$zgVEh@]*|5/fnDqu\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"txtName\" parent_id=\"undefined\"/><field name=\"component_id\">9577db35-be1f-4d2b-b6b6-5ac7d261b423</field><field name=\"field_name\">Text</field></block></value><next><block type=\"controls_navigate_new\" id=\":.6{Wu|7ZXv#^!#*VD:!\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"|BjoJRR%ZXBs%RXG$;Js\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Dashboard\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">e2c90258-7cd4-4958-a102-46cbb07c28ff</field></shadow></value></block></next></block></statement></block></statement></block></xml>",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "6a0539be-85d6-4cf3-ba2a-7880cc723db1": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
+                            }
+                        ]
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [],
+            "components": {
+                "children": [
+                    {
+                        "id": "00a87fc1-a76a-4035-a111-b5cc3ca4a407"
+                    },
+                    {
+                        "id": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                    },
+                    {
+                        "id": "6fc9599b-a201-4f81-a5f6-a92e35504888"
+                    },
+                    {
+                        "id": "6a0539be-85d6-4cf3-ba2a-7880cc723db1"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "Ramshackle_V2",
+            "settings": {
+                "teamId": null,
+                "appName": "LoginApp",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCkzHrPGQswcw5YFGffVcEIaP-BGHfnuNU",
+                "firebaseDatabaseURL": "https://ramshackle-622af-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": "LoginApp",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCkzHrPGQswcw5YFGffVcEIaP-BGHfnuNU",
+                "firebaseDatabaseURL": "https://ramshackle-622af-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": true,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "6b87aedc-b86a-47c7-8a22-7b037b138213": {
+                    "scope": "APP",
+                    "name": "currentlySigningUp",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "de2648d3-b8c8-4792-90a8-f0146ee120c2": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "ee07e1a1-8a94-41db-9a81-070a794c008c": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "31605c78-7923-42a5-b2a2-b54fc023eb2c": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "71e1b0fc-d23a-4771-8899-00816d2bb22a": {
+                    "scope": "APP",
+                    "name": "user ID",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "98f41d01-f3ec-422e-92d5-a13e16152b8b": {
+                    "scope": "APP",
+                    "name": "screenNav",
+                    "screenId": "e2c90258-7cd4-4958-a102-46cbb07c28ff"
+                },
+                "97226036-bb92-4e0c-8eb3-133648478079": {
+                    "scope": "CLOUD",
+                    "name": "name",
+                    "screenId": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e"
+                },
+                "65040886-2296-468b-8701-cf6decb776f9": {
+                    "scope": "APP",
+                    "name": "currentProjectName",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "ab3ee146-d812-4566-866a-d141bf923da5": {
+                    "scope": "APP",
+                    "name": "currentProjectDate",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "76d7179e-c1c0-4d24-a4c8-2bdc293ed547": {
+                    "scope": "APP",
+                    "name": "currentProjectDetails",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "41658212-98f6-436a-aaf7-c10f281e7420": {
+                    "scope": "APP",
+                    "name": "currentProjectInvoice",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "e066f05f-ff6c-471f-9bea-ea9e3d3b765b": {
+                    "scope": "APP",
+                    "name": "currentProjectNum",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
