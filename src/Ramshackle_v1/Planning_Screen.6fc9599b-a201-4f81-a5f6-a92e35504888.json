@@ -1,4 +1,5 @@
 {
+    "id": "6fc9599b-a201-4f81-a5f6-a92e35504888",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -102,7 +103,7 @@
             "children": [],
             "id": "5636723a-7085-4765-bad8-6813aad673ed",
             "thunkableVersion": 421,
-            "name": "RAMnavImg7"
+            "name": "NavProjects"
         },
         {
             "type": "Button",
@@ -113,13 +114,13 @@
                 "FontSize": 16,
                 "CustomFont": "",
                 "BackgroundColor": "rgba(249, 204, 11, 1)",
-                "Height": 38,
-                "Width": 47,
+                "Height": 40,
+                "Width": 49,
                 "Visible": true,
-                "X": 304,
-                "Y": 4,
-                "RelativeX": 304,
-                "RelativeY": 4,
+                "X": 305,
+                "Y": 5,
+                "RelativeX": 305,
+                "RelativeY": 5,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -150,13 +151,13 @@
                 "Disabled": false,
                 "ParentId": "e2c90258-7cd4-4958-a102-46cbb07c28ff",
                 "position": "absolute",
-                "edgeOffsets": 4
+                "edgeOffsets": 5
             },
             "children": [],
             "id": "c4fd3aa5-8469-4f60-8763-a7f3e4d9d602",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "ReturnButt6"
+            "name": "btnReturntoDash"
         },
         {
             "type": "Label",
@@ -306,7 +307,7 @@
             "id": "0e541b39-98ae-479f-8c11-afb61b540738",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "DateHeaderLabel4"
+            "name": "DateHeaderLabel"
         },
         {
             "type": "Label",
@@ -381,7 +382,7 @@
             "id": "4b799849-fd02-4b3b-b8dc-cbad90a5d6b4",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "ProjectHeaderLabel4"
+            "name": "ProjectHeaderLabel"
         },
         {
             "type": "Button",
@@ -434,7 +435,7 @@
             "children": [],
             "id": "48c7e1b0-23e8-4154-8689-00212669ec1f",
             "thunkableVersion": 425,
-            "name": "KitchenAddNewButt9"
+            "name": "btnAddProject1"
         },
         {
             "type": "Button",
@@ -488,7 +489,7 @@
             "id": "abfeced7-b8c0-4cbe-96c7-c0ccbcd9c634",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenAddNewButt10"
+            "name": "btnAddProject2"
         },
         {
             "type": "Button",
@@ -542,7 +543,7 @@
             "id": "5e2655c0-4f53-40f7-9807-e730c3d78d29",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenAddNewButt11"
+            "name": "btnAddProject3"
         },
         {
             "type": "Button",
@@ -596,7 +597,7 @@
             "id": "43d02d69-7cae-41fc-8f50-3d1611f13d53",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenAddNewButt12"
+            "name": "btnAddProject4"
         },
         {
             "type": "Button",
@@ -650,7 +651,7 @@
             "id": "00a2c5ff-0ed5-47c7-9b8f-e887bdc6b7c9",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt9"
+            "name": "btnEditProject1"
         },
         {
             "type": "Button",
@@ -704,7 +705,7 @@
             "id": "692ba59f-e953-4dd7-abe9-fd55de40f368",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt10"
+            "name": "btnEditProject2"
         },
         {
             "type": "Button",
@@ -758,7 +759,7 @@
             "id": "39b4eee8-d2c2-4470-a7d3-fcd1b515242f",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt11"
+            "name": "btnEditProject3"
         },
         {
             "type": "Button",
@@ -812,7 +813,7 @@
             "id": "1f1f3355-6a52-4a57-a13a-e5ae9d8ac173",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt12"
+            "name": "btnEditProject4"
         },
         {
             "type": "Group",
@@ -895,7 +896,7 @@
                     "id": "4878d218-3b11-40f9-9ec0-d65b6872c32a",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt9"
+                    "name": "btnProject1View"
                 },
                 {
                     "type": "Button",
@@ -948,31 +949,32 @@
                     "children": [],
                     "id": "5ad3061b-3a62-48f5-ae62-c42614d72d8d",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt9"
+                    "name": "btnProject1Save"
                 },
                 {
                     "type": "Label",
                     "translatedName": "Label",
                     "reactType": "Text",
                     "properties": {
-                        "Text": "",
+                        "Text": "Hi",
                         "FontSize": 14,
                         "CustomFont": "",
                         "LineHeight": 1,
                         "Color": "rgba(255, 255, 255, 1)",
-                        "TextAlign": "center",
-                        "Height": 27,
-                        "Width": 70,
+                        "TextAlign": "left",
+                        "Height": 32,
+                        "Width": 80,
                         "Visible": false,
-                        "X": 42,
-                        "Y": 201,
-                        "RelativeX": 20,
-                        "RelativeY": 11,
+                        "X": 37,
+                        "Y": 202,
+                        "RelativeX": 15,
+                        "RelativeY": 12,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 14,
                             "fontStyle": "normal",
+                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -1000,21 +1002,21 @@
                                 "height": 0
                             },
                             "position": "absolute",
-                            "left": "13.350048505827145%",
-                            "top": "41.25120090406599%",
+                            "left": "41.733333333333334%",
+                            "top": "23.661373707533233%",
                             "lineHeight": 1,
                             "display": "none",
-                            "textAlign": "center"
+                            "textAlign": "left"
                         },
-                        "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
+                        "ParentId": "6fc9599b-a201-4f81-a5f6-a92e35504888",
                         "position": "absolute",
-                        "edgeOffsets": 201,
-                        "children": ""
+                        "edgeOffsets": 202,
+                        "children": "Hi"
                     },
                     "children": [],
-                    "id": "3f014ddf-636f-4aba-9ba2-88fa8d719e29",
-                    "thunkableVersion": 425,
-                    "name": "KitchenDLabel9"
+                    "id": "b5b4ee3d-c36a-4d5d-876f-53318a19c612",
+                    "thunkableVersion": 430,
+                    "name": "labelProject1Date"
                 },
                 {
                     "type": "TextInput",
@@ -1077,7 +1079,7 @@
                     "children": [],
                     "id": "ebc889a1-cab6-4c6a-8a48-05767220781e",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput9"
+                    "name": "inputProject1Date"
                 },
                 {
                     "type": "Label",
@@ -1144,7 +1146,7 @@
                     "id": "b51bb6a7-d90d-4492-84d8-153051b6049c",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel9"
+                    "name": "labelProject1Name"
                 },
                 {
                     "type": "TextInput",
@@ -1208,12 +1210,12 @@
                     "id": "fb0b8ef1-2630-4d78-94bd-e5d3e33b0580",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput9"
+                    "name": "inputProject1Name"
                 }
             ],
             "id": "a2a2eb77-58d1-46f6-a3f6-0c4bb2b57b02",
             "thunkableVersion": 425,
-            "name": "KitchenGroup9"
+            "name": "ProjectGroup1"
         },
         {
             "type": "Group",
@@ -1296,7 +1298,7 @@
                     "id": "e45fe5a0-4b55-40eb-844e-d5777b67cbcb",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt10"
+                    "name": "btnProject2View"
                 },
                 {
                     "type": "Button",
@@ -1349,7 +1351,7 @@
                     "children": [],
                     "id": "de8056fa-d6cf-4daa-a5d0-b030e4290762",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt10"
+                    "name": "btnProject2Save"
                 },
                 {
                     "type": "Label",
@@ -1415,7 +1417,7 @@
                     "children": [],
                     "id": "49dd1f30-d784-4c67-b7fb-a0cbab2da4a0",
                     "thunkableVersion": 425,
-                    "name": "KitchenDLabel10"
+                    "name": "labelProject2Date"
                 },
                 {
                     "type": "TextInput",
@@ -1478,7 +1480,7 @@
                     "children": [],
                     "id": "5418df66-40db-47b8-8d07-4bf6b31139d6",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput10"
+                    "name": "inputProject2Date"
                 },
                 {
                     "type": "Label",
@@ -1545,7 +1547,7 @@
                     "id": "cf97c71d-8d03-4593-b224-e70031eb71bc",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel10"
+                    "name": "labelProject2Name"
                 },
                 {
                     "type": "TextInput",
@@ -1609,13 +1611,13 @@
                     "id": "b3ad2ee7-d96b-45cf-901e-6621edb4060c",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput10"
+                    "name": "inputProject2Name"
                 }
             ],
             "id": "414aab65-4109-4ef7-85e9-307c10d25d46",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenGroup10"
+            "name": "ProjectGroup2"
         },
         {
             "type": "Group",
@@ -1698,7 +1700,7 @@
                     "id": "cddcf78f-d007-415d-bb8c-a7248fcb4838",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt11"
+                    "name": "btnProject3View"
                 },
                 {
                     "type": "Button",
@@ -1751,7 +1753,7 @@
                     "children": [],
                     "id": "9decd8c2-02a1-4a78-890a-36c9860566a5",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt11"
+                    "name": "btnProject3Save"
                 },
                 {
                     "type": "Label",
@@ -1817,7 +1819,7 @@
                     "children": [],
                     "id": "560763b7-a094-4865-bffc-717c75921119",
                     "thunkableVersion": 425,
-                    "name": "KitchenDLabel11"
+                    "name": "labelProject3Date"
                 },
                 {
                     "type": "TextInput",
@@ -1880,7 +1882,7 @@
                     "children": [],
                     "id": "55fbd574-cd97-47fd-9077-b15ce4661073",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput11"
+                    "name": "inputProject3Date"
                 },
                 {
                     "type": "Label",
@@ -1947,7 +1949,7 @@
                     "id": "bb18aa63-954c-4c7c-9ece-3df3c73554f9",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel11"
+                    "name": "labelProject3Name"
                 },
                 {
                     "type": "TextInput",
@@ -2011,13 +2013,13 @@
                     "id": "db208ee0-4611-4365-b8f3-32bfee2bb99b",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput11"
+                    "name": "inputProject3Name"
                 }
             ],
             "id": "285f1b54-3659-40c8-8e5f-7e0846016ea5",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenGroup11"
+            "name": "ProjectGroup3"
         },
         {
             "type": "Group",
@@ -2100,7 +2102,7 @@
                     "id": "f5c782b9-aeb7-4dd7-baf9-166cac1e4498",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt12"
+                    "name": "btnProject4View"
                 },
                 {
                     "type": "Button",
@@ -2153,7 +2155,7 @@
                     "children": [],
                     "id": "1ccc4d62-ce03-4082-917e-3838a8f5a15b",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt12"
+                    "name": "btnProject4Save"
                 },
                 {
                     "type": "Label",
@@ -2219,7 +2221,7 @@
                     "children": [],
                     "id": "e7ec69fd-f012-40e8-8a85-f9c9a9912007",
                     "thunkableVersion": 425,
-                    "name": "KitchenDLabel12"
+                    "name": "labelProject4Date"
                 },
                 {
                     "type": "TextInput",
@@ -2282,7 +2284,7 @@
                     "children": [],
                     "id": "3bab7f04-c8ad-4294-b99d-9dac7eca4931",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput12"
+                    "name": "inputProject4Date"
                 },
                 {
                     "type": "Label",
@@ -2349,7 +2351,7 @@
                     "id": "9968bde5-9a8a-4f62-81b8-4f2499ff0cda",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel12"
+                    "name": "labelProject4Name"
                 },
                 {
                     "type": "TextInput",
@@ -2413,13 +2415,13 @@
                     "id": "191856cf-8ff5-44c6-913d-7a625f52bd27",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput12"
+                    "name": "inputProject4Name"
                 }
             ],
             "id": "16be1a37-0719-459a-bc12-72ccd63e6bba",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenGroup12"
+            "name": "ProjectGroup4"
         },
         {
             "type": "Label",
@@ -2483,7 +2485,7 @@
             "children": [],
             "id": "1abdd89e-3636-4da1-95d1-b616bb2082c7",
             "thunkableVersion": 425,
-            "name": "KitchenErrorLabel1"
+            "name": "ErrorLabel"
         },
         {
             "type": "AdMobBanner",
@@ -2516,7 +2518,6 @@
             "name": "ScumAd7"
         }
     ],
-    "id": "6fc9599b-a201-4f81-a5f6-a92e35504888",
     "thunkableVersion": 426,
     "bindings": null,
     "name": "Planning_Screen"
