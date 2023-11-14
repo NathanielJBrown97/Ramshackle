@@ -1,0 +1,66 @@
+/* #header{
+  background-color: #0C1D36; 
+  height: 110px; 
+  /* position: fixed; */
+/*} */
+
+/**/
+.topnav {
+    background-color: #122b4f;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: customFont;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  body{
+    text-align: center;
+    background-color: #0C1D36;
+    /* background-image: url("./images/icon.png"); */
+}
+
+.bodyContent{
+    /* background-image: url("./images/icon.png"); */
+    /* position: relative; */
+    padding-top: 50px;
+    margin: auto;
+}
+#divider{
+    height: 100px;
+    /* position: absolute; */
+    background-image: url("../images/icon.png");
+    background-repeat: repeat-x;
+}
+
+/* Content styles */
+.content {
+  background-color: #122b4f; 
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  font-family: customFont; 
+  color:white;
+}
