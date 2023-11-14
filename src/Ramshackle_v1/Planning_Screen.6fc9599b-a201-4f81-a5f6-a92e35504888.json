@@ -61,55 +61,6 @@
     },
     "children": [
         {
-            "type": "DatePicker",
-            "label": "Date Input",
-            "translatedName": "Date Input",
-            "properties": {
-                "FormatStyle": "MMM D, YYYY",
-                "Height": 25,
-                "Width": 102,
-                "Visible": false,
-                "X": 29,
-                "Y": 200,
-                "RelativeX": 29,
-                "RelativeY": 200,
-                "ResizeMode": "STRETCH",
-                "FontSize": 16,
-                "Color": "rgba(255, 255, 255, 1)",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "17.599995930989582%",
-                    "top": "61.43771781526957%",
-                    "display": "none",
-                    "fontSize": 16,
-                    "color": "rgba(255, 255, 255, 1)"
-                },
-                "ParentId": "6fc9599b-a201-4f81-a5f6-a92e35504888",
-                "position": "absolute",
-                "edgeOffsets": 200
-            },
-            "children": [],
-            "id": "13094dcd-a662-4463-8ace-8316470545eb",
-            "thunkableVersion": 430,
-            "name": "Date_Input3"
-        },
-        {
             "type": "Button",
             "translatedName": "Button",
             "properties": {
