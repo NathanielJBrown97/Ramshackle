@@ -3,48 +3,67 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Ramshackle - Home Repair Management</title>
-    <link rel="stylesheet" href="index.css">
+    <title>Ramshackle</title>
+    <link rel="stylesheet" type="text/css" href="./style/styles.css" />
+    <style>
+        @font-face {
+        font-family: customFont;
+        src: url("./fonts/Khula Bold.txt");
+    }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to Ramshackle</h1>
+        <div class="topnav">
+            <a href="#home" style="padding: 2px;"><img src="./images/iconMenu.png" alt="Home" style="height:40px; padding:0px; margin: 0px;"></a>
+            <a href="#about">Who Are We?</a>
+            <a href="#features">Features</a>
+            <a href="#demo">Video Demo</a>
+            <a href="#howto">Instructions</a>
+            <a href="#tryit">Try It!</a>
+        </div>
+        
+        
     </header>
-    <!-- This is the navigation banner links; might not need them. Temporary ones -->
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#features">Features</a></li>
-            <li><a href="#download">Download</a></li>
-        </ul>
-    </nav>
-
-    <!-- About Section -->
-    <div id="about" class="content">
-        <h2>About Ramshackle</h2>
-        <p>Welcome to Ramshackle, your go-to app for managing home repairs. We understand the challenges of maintaining and repairing your home. Our app simplifies the process, helping you keep your home in top shape.</p>
+    
+    <div class="bodyContent" id="home">
+        <div>
+            <h1>
+                <img src="./images/logo.png" alt="Ramshackle Logo" style="height: 100px;"/>
+            </h1>
+        </div>
+        <div id="about" class="content">
+            <p style="font-family: customFont; color:white;">
+                Ramshackle is an app created to help you keep track of your home maintenance repairs 
+                and manage documents and notes associated with those projects.<br/>
+                We understand the challenses of maintaining and repairing your home. Our app keeps 
+                you organized so you can focus on keeping your home standing.
+            </p>
+        </div>
+        <div id="features" class="content">
+            <ul style="width:50%; ">
+                <li>
+                    Create project folders
+                </li>
+                <li>
+                    Upload invoices
+                </li>
+                <li>
+                    Keep detailed notes
+                </li>
+            </ul>
+        </div>
+        <div id="demo" class="content" style="height:200px; color:cadetblue">
+            <p>{Video Demo}</p>
+        </div>
+        <div id="howto" class="content" style="height:200px; color:cadetblue">
+            <p>{Instructions}</p>
+        </div>
+        <div id="tryit" class="content" style="height:200px; color:cadetblue">
+            <p>{Embedded App}</p>
+        </div>
+        <div id="divider">
+        </div>
     </div>
-
-    <!-- Features Section -->
-    <div id="features" class="content">
-        <h2>Features</h2>
-        <ul>
-            <li>Task management for home repairs</li>
-            <li>Stuff</li>
-            <li>Would</li>
-            <li>Go Here</li>
-        </ul>
-    </div>
-
-    <!-- Download Section -->
-    <div id="download" class="content">
-        <h2>Download Ramshackle</h2>
-        <p>Get started with Ramshackle today! Download our app for Android.</p>
-        <a href="#" class="download-button">Download Now</a>
-    </div>
-
-    <footer>
-        <p>&copy; 2023 305Soft. All rights not-reserved.</p>
-    </footer>
 </body>
 </html>

@@ -89,7 +89,27 @@
                         "iap": false
                     }
                 },
+                "a98eb633-bf37-431a-bad7-6fdd5367b5ab": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
                 "96ff0ecd-5794-4969-bbcf-86034312f824": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "5a5721a5-0b36-448e-a631-63cedcdc6d7b": {
                     "xml": "",
                     "permissions": {
                         "android": [],
@@ -165,6 +185,9 @@
                     {
                         "id": "96ff0ecd-5794-4969-bbcf-86034312f824"
                     },
+		        {
+			      "id": "5a5721a5-0b36-448e-a631-63cedcdc6d7b"
+                    },
                     {
                         "id": "39b5ad59-cdd4-4b58-a85d-d69c9dbff007"
                     },
@@ -173,6 +196,9 @@
                     },
                     {
                         "id": "48c7def7-1c7b-46f0-bd20-484bbf8d3bbe"
+                    },
+                    {
+                        "id": "a98eb633-bf37-431a-bad7-6fdd5367b5ab"
                     }
                 ]
             },
