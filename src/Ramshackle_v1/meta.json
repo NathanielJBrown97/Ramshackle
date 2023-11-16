@@ -33,8 +33,8 @@
                     "createdAt": "2023-09-17T00:34:09.867Z",
                     "updatedAt": "2023-09-17T00:34:09.867Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2ae02443baec?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T140101Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=57a3f8de4845dcc3d5803c094a156902086ce56798a96e9b5c516bebff7e04b1d98fd603cfa29aeef149ced4f343e1e5794e20f5d6d90d8cf2457768190d4371e8009fab92e0934967fa7e78d13bdcafca71c7316182c7005e984a2f150977dcbaf095210ea77b1f48e18563549e56c02fa069c9828da50580661f35bbad17820579a9de487444837b18174e3285716746d76b7a199fa878da928692f80d0cd3592023939857136de8fb565b536f3e8755582e19c81c0189f1fae79e4a80008edbfd304aa56d5cbb510eb30063efe65b179c995247dd845d3737773129c79b3b999486bf9b0fffbe7149ba39476e540f0cc2d17da9de65a92549ef0367254f52",
-                    "signedUrlExpirationTime": 1698847261110
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2ae02443baec?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T143414Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=08d63752a7345c45403c9fa6c91fc8dba75701bd50f3ac504468e1f3de4cdabf0595c057f07fe0c0dc554069e280a1332a1a08a18e2731aa62a7f017d668dbdc0b1a2de709a37f5a75a5b30d9d5f131cada97bdce80e3ff459fd0f8bc1bb7054c3cd53a7d60805273cbd0928a23052d726833414306d565d047a22e080983461d1e3f985fac3829551e73c173dad38c147966a91080cf7b59c41a9d22e950f6d0a9a9f65e7883aa535c2857c4288089bf8987ef603caefa898188fe4f401e303bdc6c7c7a2849dc0f644291b0bf3875b8fa53e27cba805e04e83acbbe35f902e56f02033b7d533a4be3dc0b55595a160836450a46d2b6ec857d2c99da8fe9d1a",
+                    "signedUrlExpirationTime": 1700318054250
                 },
                 "653fb71a445e2a61f243baee": {
                     "externalStorageType": "GCS",
@@ -49,8 +49,8 @@
                     "createdAt": "2023-09-17T16:31:09.188Z",
                     "updatedAt": "2023-09-17T16:31:09.188Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a61f243baee?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T140101Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=83b6edd890f8e9a4c40d4a660d2467ab56fe4b084d3d2db25e92658f87f0100070fb2158d00af869e82f8bb2338e228ebe64263b371fcc0f210a7216f35f2464780c8503cf157827122f377e3249d4457dcf2198b1c2312c196c2abf84aad9913a97b30abc3e1bdf6e70792c81692f7e8c45441e1b35990f6000e004ac077a3cfe62312a46d6048c22f3697516e65753f5ab955923f3c96f8560aa23cbbe16fa6f4ef3f4bf0ffda9083c1ebf3355e48bd379b7ae7469fd6ff3f67476b35336aa5d4863f779014d01343c4f343b9f5114d0f9c6c11220fb8daf8c962c1423f295d1675abfe26aa07bafb2c9a501deee0bdce590765de2356d9a7922b87632a0fd",
-                    "signedUrlExpirationTime": 1698847261113
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a61f243baee?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T143414Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2d417e4c57e875ef1fadf97cef0a9b7d7f1fbf9ed2d531480bc2b88a3f66c7bc36bd10f0548b62da1b2b6d51787e97b698d01f4d7e14d6da89ca1ad3b784a49fc0d6fcbeaeda4e3706f21c8169649fb20f6429de2568a21fa3e35f31eaae4163135ed84d813a484f2bf8d295078e4e2f88d9b3e0b456adb9e4ff4632de177a3e29d6e65100b94a4d6517cb3e8ea8d451dea0509741787eaf132d3012bac6bbc2adb07be7718a5eb8f590f98c400af1826e484fd8629ce450902f06dcf3fb497a912e9a17e14c3d064c694855e36a01ae7f8c515379edbb03ceb2beacbe60380d1f93204ed940839b557966dc4bf87892a8e9a1481dd0fced5f23ef1259105dd8",
+                    "signedUrlExpirationTime": 1700318054253
                 },
                 "653fb71a445e2a10ac43baf0": {
                     "externalStorageType": "GCS",
@@ -65,8 +65,8 @@
                     "createdAt": "2023-10-20T17:44:01.214Z",
                     "updatedAt": "2023-10-20T17:44:01.214Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a10ac43baf0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T140101Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1e6bf0fcce9c1f41ba120ead4e90c53c748419a9b8c8ecbbe4994cd08982504f0572f0d660a293f5b1a75891e4fa1bb8dc49c7bf19d5b6f53fd5d26ee37053b60417694f18bd3c8f6cae2f59c6f4cb7f351524b9012033bbcf62a9e5e5330a1f0b1bd9a0756bee8e8c2a75aa35c4d29adeff9b2b580fcd96cf53aab96bc6209e08fce9f967638f4667d501354673b4bc7064c71e5bff3a86ed399fee5b19790b94d29870f665e8c5fdda99605d98e06630dd44a70f7e2a37143762b6fc9948b1e2215879d7d90aaef5d8966c057e4167328435c83f7b0a22c5f5df428bf008cdbfcee32e69ad2013d4e4f1fa50aa370db1be72b41ab827b466ce57313a00557c",
-                    "signedUrlExpirationTime": 1698847261115
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2a10ac43baf0?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T143414Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4126639ffb4ee0f798c193d2702de51193e1add08ebacdce2248b87e0dd6531ce914027014317ff6d28b6f7086396e536c747f31b5c861d982745cc2d1e1df8a20fda959c93350608630c9925fe09c99fe1cff2b3bb08e6558408d81a7b895696187fae673b499aa32a768d2f517ea341491c8d1a57af4344ece744a916a6bbf0a95790fdfe162e3a8afece49938e1eec9dc1401ba493348f7870509b95fa1d74409ad80a8a5305ec9cf3f0c579b6c85ec7e1e65a85839c2543a23d9a8fc881e66c7dcb2ed75653ffcf7dc3139faa466a1d3c08c56cc5a91c0fdbd79489ed18ec87838201b46d1735d9794059b452d59005ea9c115d0108b9049710221d82915",
+                    "signedUrlExpirationTime": 1700318054255
                 },
                 "653fb71a445e2aeda843baf2": {
                     "externalStorageType": "GCS",
@@ -81,8 +81,8 @@
                     "createdAt": "2023-10-20T18:03:22.163Z",
                     "updatedAt": "2023-10-20T18:03:22.163Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2aeda843baf2?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T140101Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a97d5d2e71a9189b865c08bfc8a01932fbd8549d31e8d4c0736500b511a65c65102537a2bc4bc64c1b391fd81ea90ce0a59329708610f898664b0ce081b10e21f2e74584b026f6cf5dbe1a84bbaae0ee2900a9f4e44b01b430248a8535743d797271169d4ff4ea3f848fe95342c3d603b652f8a8157fb1b7488114f9723bc2c2d13ba76de86cd1adf848a8234be4f4b7b4f9344ed697ce61094cb0366f6b0996324f6666e25309dd4628ac1e3afb5535b1abda04a0022b3641cffa0fdd40d2fad14da4d80f1591b9b00c8079bd0718585f86c98acc73347a4691d50df128dc5464d2c17f593252129c41e77510fa248875bfc519d7e1d7ee8386e0929970312b",
-                    "signedUrlExpirationTime": 1698847261118
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f244be7bdfcfff9abb3b42/projects/653fb71a445e2a4f1843baea/assets/653fb71a445e2aeda843baf2?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T143414Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=13c8f2d6e8217b1a54a742b2ca89f6869bbcb8029699795d525cc1907cac73c73d29d02107d059ee73f6bc826bbcf7fe3d96a323e765f967f55ddb01165a821de77eeebd5bb09c774a4b691d9051f903b074b95c4e36576fb63ded0a95b7023165c2782cffbd277533028291fc5d7f5e727e4013d5445c7bde8887e0d2a48ba5b5fff15e6941db3a6137643527e0be49bf15eef364191c525f3098b431989ce12d65a97db90b7ed7fb66beb8415d96179502581c84d0eabd07674be125c7cb8d0f0cec831c7ac309d8230d620799edc372282f0c7b07eb0a39fce405a73e6991757a850eead335a1eccb1eff752ddfa97e1436e6de121ba1053d6d30758138cb",
+                    "signedUrlExpirationTime": 1700318054257
                 }
             },
             "backendUpgradeVersion": 23,
@@ -98,7 +98,7 @@
                     }
                 },
                 "e2c90258-7cd4-4958-a102-46cbb07c28ff": {
-                    "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"variables_get\" id=\"Hm.7Fs!896n6*eUd~6m*\" disabled=\"true\" x=\"484\" y=\"-190\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"cloud variable name\"/><field name=\"VAR\">97226036-bb92-4e0c-8eb3-133648478079</field></block><block type=\"component_event\" id=\"ljD56vpMo^#Bq%wrFd3X\" x=\"35\" y=\"-127\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"Dashboard\" component_type=\"Screen\" parent_id=\"undefined\" event_id=\"Opens\" was_updated=\"true\"/><field name=\"component_id\">e2c90258-7cd4-4958-a102-46cbb07c28ff</field><field name=\"event_id\">Opens</field><statement name=\"input_do\"><block type=\"setter\" id=\"62N9a#Qe}Ua/P{;8ds(|\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"NameLabel1\" parent_id=\"undefined\"/><field name=\"component_id\">d68cf3a4-ff2b-4ffa-8224-a956d6569d61</field><field name=\"field_name\">Text</field><value name=\"field_value\"><shadow type=\"text\" id=\"MsUFu`,Z0/36$ZqIwv,=\"><field name=\"TEXT\">Label</field></shadow><block type=\"variables_get_dynamic\" id=\"H3%UM|Cs_c[Ha8+KjtM0\"><field name=\"SCOPE\">CLOUD</field><value name=\"NAME\"><shadow type=\"text\" id=\"{=2OlC{bfb7XZIS([M#s\"><field name=\"TEXT\">name</field></shadow><block type=\"text_join\" id=\"(489NH1_7lj=.}g[9|t7\"><mutation items=\"2\"/><value name=\"ADD0\"><block type=\"variables_get\" id=\";b4@GPV^g`!dx!MaCvKi\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable user ID\"/><field name=\"VAR\">71e1b0fc-d23a-4771-8899-00816d2bb22a</field></block></value><value name=\"ADD1\"><block type=\"text\" id=\"]5)ExKW{RT|mK[J|{zS)\"><field name=\"TEXT\">/name</field></block></value></block></value></block></value></block></statement></block><block type=\"text_join\" id=\"TMY))T,]VW?u00OX[EeL\" disabled=\"true\" x=\"594\" y=\"-116\"><mutation items=\"2\"/><value name=\"ADD0\"><block type=\"variables_get\" id=\"a6cIwAh}n`rx%i|,!r,;\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable user ID\"/><field name=\"VAR\">71e1b0fc-d23a-4771-8899-00816d2bb22a</field></block></value><value name=\"ADD1\"><block type=\"text\" id=\"D#n!zoG6doGhqqY#g0-p\"><field name=\"TEXT\">/name</field></block></value></block><block type=\"variables_def\" id=\"xs4e;!#.p#Gin9[`Xa{@\" x=\"30\" y=\"-2\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" no_input=\"false\" variable_uuid=\"98f41d01-f3ec-422e-92d5-a13e16152b8b\" variable_name=\"screenNav\" variable_scope=\"APP\"/><field name=\"SCOPE\">APP</field><field name=\"NAME\">screenNav</field><value name=\"VALUE\"><block type=\"text\" id=\"x7UoMQe}Y3W!0N09(%f1\"><field name=\"TEXT\">\"\"</field></block></value></block><block type=\"component_event\" id=\"llj_fsXIr8:U8KR;Rtr;\" x=\"494\" y=\"4\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"RAMnavImg1\" component_type=\"Image\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">51601401-0b4a-43a3-832c-8786c10bf182</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"caller\" id=\"U^hZarQnbH%]@,.ZJP-r\" inline=\"false\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"Dashboard\" component_id=\"e2c90258-7cd4-4958-a102-46cbb07c28ff\" component_type=\"Screen\" function_name=\"ToggleDrawerMenu\" was_updated=\"true\"/><field name=\"component_id\">e2c90258-7cd4-4958-a102-46cbb07c28ff</field><field name=\"function_name\">ToggleDrawerMenu</field></block></statement></block><block type=\"component_event\" id=\"c:S4n2maJI~n4I!SFSC/\" x=\"28\" y=\"39\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"KitchenButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">87bc4ddb-609c-4247-be31-c0ed7698d05d</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"|suhaQHx$N3t[`-SsJ))\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"@1zL5uaG-3RLS^c6Kf^4\"><field name=\"TEXT\">Kitchen</field></block></value><next><block type=\"controls_navigate_new\" id=\"d!ht=_iSk6V{(LalPPfr\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"ZgC=~(7Bab,A_0/cs}#^\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"3t|VG2KqHS!g!g2(0gYB\" x=\"30\" y=\"164\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"BathroomButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">223725cd-388d-4627-b9e3-bbcaaa52a7aa</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"Y4)^r1HSd@iAZ5Xl:EIz\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"#,!3?)Tf$lMJ{iAd0yqa\"><field name=\"TEXT\">Bathroom</field></block></value><next><block type=\"controls_navigate_new\" id=\"rQpIBpEhYZD[r2e$]_36\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"Ln.Jh7/QNm0Q|_,zi|Y.\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\".:i9[j|Y!Y}%{1`7Qm.x\" x=\"32\" y=\"284\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"OutButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">c3b0eaa8-0721-48bc-bc54-26b45d846083</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\";~(dJYZE6c!{[[iCgm,!\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"SV6{UBS(Ud3HdrYLfe#N\"><field name=\"TEXT\">Outside</field></block></value><next><block type=\"controls_navigate_new\" id=\"ArcFG0thwuM:+eq_/P}d\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"puT0Nh0L?`z%nH~uu+#c\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"`$@eame}+F=9Eq6)-U+s\" x=\"46\" y=\"405\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"LivingButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">941c5445-a6a5-4520-9ec8-e75dfbd09b1b</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"oGzTvhm-oQV7N=i~/5aO\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\":lm[4eW~tN=Ie`z`iM@b\"><field name=\"TEXT\">Living Room</field></block></value><next><block type=\"controls_navigate_new\" id=\"Zlf{ns[^x`3T;|~wj*AZ\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"Pf)6m%/lDsN)jNzu,,~X\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"]bMw{Yw.*XK{5qW~z1Ap\" x=\"46\" y=\"530\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"DiningButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">6806ecab-83fd-4bb0-93eb-b23c892c8584</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"c7k;x+apoqC5^KZd0B`x\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"`sjGwcp$iA=wO|/Wu.cN\"><field name=\"TEXT\">Dining Room</field></block></value><next><block type=\"controls_navigate_new\" id=\"ai%ewlgY/am,IujXC7K9\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"Ts?6/mt4Y!yZ:^z2uSe.\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block><block type=\"component_event\" id=\"St%~#PuV`_H=c2;4*rlT\" x=\"46\" y=\"648\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"HouseButt\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">2e110243-9d79-4d80-9f24-fd229414ed93</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"variables_set\" id=\"cxX?ohd5LJ5G~:vC#U-h\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" saved_name=\"app variable screenNav\"/><field name=\"VAR\">98f41d01-f3ec-422e-92d5-a13e16152b8b</field><value name=\"VALUE\"><block type=\"text\" id=\"z0$l_lbM0^fSd2K]+g[O\"><field name=\"TEXT\">Home</field></block></value><next><block type=\"controls_navigate_new\" id=\"VR/p`w+GzA~Pt2aoZ*4*\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"ZvF28o(II[YhZA%b1$Y9\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Planning_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">6fc9599b-a201-4f81-a5f6-a92e35504888</field></shadow></value></block></next></block></statement></block></xml>",
+                    "xml": "",
                     "permissions": {
                         "android": [],
                         "ios": []
@@ -108,7 +108,7 @@
                     }
                 },
                 "4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb": {
-                    "xml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"component_event\" id=\"Ia*RFGpj[G:jS|_}zF4O\" x=\"39\" y=\"51\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"RAMnavImg6\" component_type=\"Image\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">6584b2e2-ef4d-4c75-95c1-74871d3dc77b</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"caller\" id=\"=J99F2q~B/FD:r1*#;bh\" inline=\"false\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"Logout\" component_id=\"4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb\" component_type=\"Screen\" function_name=\"ToggleDrawerMenu\" was_updated=\"true\"/><field name=\"component_id\">4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb</field><field name=\"function_name\">ToggleDrawerMenu</field></block></statement></block><block type=\"component_event\" id=\"Gh2Ab{@Gu*6w~h5?]Ixw\" x=\"44\" y=\"158\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_name=\"btnLogout\" component_type=\"Button\" parent_id=\"undefined\" event_id=\"Click\" was_updated=\"true\"/><field name=\"component_id\">7d5479f5-2081-4697-878b-6b79b2d1cfdd</field><field name=\"event_id\">Click</field><statement name=\"input_do\"><block type=\"signin_sign_out\" id=\"7g3Bk]nq/wl{:{Qre`}w\"><next><block type=\"controls_navigate_new\" id=\"=xMo`2FlBk_mho4g5~nC\"><value name=\"COMPONENT\"><shadow type=\"any_component_component_dropdown\" id=\"=oTQ^|32UcK])wd.qfI+\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" component_id=\"Authentication_Screen\" component_types_to_include=\"[&quot;Screen&quot;]\"/><field name=\"component_id\">9c1ecdcc-ae5e-4f66-80ff-3750b25475f4</field></shadow></value></block></next></block></statement></block></xml>",
+                    "xml": "",
                     "permissions": {
                         "android": [],
                         "ios": []
@@ -137,29 +137,84 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "6a0539be-85d6-4cf3-ba2a-7880cc723db1": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSCameraUsageDescription",
+                                "label": "Camera",
+                                "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
+                            }
+                        ]
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [],
             "components": {
                 "children": [
                     {
-                        "id": "00a87fc1-a76a-4035-a111-b5cc3ca4a407"
-                    },
-                    {
-                        "id": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e"
+                        "id": "00a87fc1-a76a-4035-a111-b5cc3ca4a407",
+                        "type": "Drawer Navigator",
+                        "translatedName": "Drawer Navigator",
+                        "reactType": "DrawerNavigator",
+                        "properties": {
+                            "DrawerPosition": "left",
+                            "TabNavigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "TabNavigatorIcon": {},
+                            "config": {
+                                "contentOptions": {
+                                    "drawerPosition": "left"
+                                }
+                            },
+                            "navigationOptions": {
+                                "tabBarVisible": true
+                            },
+                            "tabNavigationOptions": {}
+                        },
+                        "children": [
+                            {
+                                "id": "e2c90258-7cd4-4958-a102-46cbb07c28ff"
+                            },
+                            {
+                                "id": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e"
+                            },
+                            {
+                                "id": "4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb"
+                            }
+                        ],
+                        "thunkableVersion": 426,
+                        "name": "Menu_Nav"
                     },
                     {
                         "id": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
                     },
                     {
                         "id": "6fc9599b-a201-4f81-a5f6-a92e35504888"
+                    },
+                    {
+                        "id": "6a0539be-85d6-4cf3-ba2a-7880cc723db1"
                     }
                 ]
             },
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "My_Version_Ramshackle_vSCRUM",
+            "projectName": "Ramshackle_V2",
             "settings": {
                 "teamId": null,
                 "appName": "LoginApp",
@@ -261,7 +316,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "5",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -299,6 +354,31 @@
                     "scope": "CLOUD",
                     "name": "name",
                     "screenId": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e"
+                },
+                "65040886-2296-468b-8701-cf6decb776f9": {
+                    "scope": "APP",
+                    "name": "currentProjectName",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "ab3ee146-d812-4566-866a-d141bf923da5": {
+                    "scope": "APP",
+                    "name": "currentProjectDate",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "76d7179e-c1c0-4d24-a4c8-2bdc293ed547": {
+                    "scope": "APP",
+                    "name": "currentProjectDetails",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "41658212-98f6-436a-aaf7-c10f281e7420": {
+                    "scope": "APP",
+                    "name": "currentProjectInvoice",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
+                },
+                "e066f05f-ff6c-471f-9bea-ea9e3d3b765b": {
+                    "scope": "APP",
+                    "name": "currentProjectNum",
+                    "screenId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4"
                 }
             },
             "defaultDesignerDevice": "PHONE",

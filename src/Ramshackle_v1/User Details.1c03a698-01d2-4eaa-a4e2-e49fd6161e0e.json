@@ -1,4 +1,5 @@
 {
+    "id": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -208,7 +209,7 @@
             "id": "9577db35-be1f-4d2b-b6b6-5ac7d261b423",
             "thunkableVersion": 426,
             "bindings": null,
-            "name": "txtName"
+            "name": "inputName"
         },
         {
             "type": "Label",
@@ -331,7 +332,7 @@
             "id": "6553081b-92dc-4295-a908-c26e9448ffe7",
             "thunkableVersion": 426,
             "bindings": null,
-            "name": "RAMnavImg8"
+            "name": "NavUserDetails"
         },
         {
             "type": "Image",
@@ -435,7 +436,6 @@
             "name": "btnSave"
         }
     ],
-    "id": "1c03a698-01d2-4eaa-a4e2-e49fd6161e0e",
     "thunkableVersion": 426,
     "bindings": null,
     "name": "User Details"
