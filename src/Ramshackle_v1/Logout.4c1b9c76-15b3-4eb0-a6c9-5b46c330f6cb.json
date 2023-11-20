@@ -1,0 +1,211 @@
+{
+    "type": "Screen",
+    "translatedName": "Screen",
+    "reactType": "ViewWithProps",
+    "properties": {
+        "Height": "Fill container",
+        "Width": "Fill container",
+        "Layout": "column",
+        "BackgroundColor": "rgba(12, 29, 54, 1)",
+        "Justification": "center",
+        "Alignment": "center",
+        "Visible": true,
+        "style": {
+            "marginTop": 0,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "shadowColor": "rgba(0, 0, 0, 0)",
+            "shadowOpacity": 0,
+            "scaledShadowOpacity": 0,
+            "shadowRadius": 0,
+            "shadowOffset": {
+                "width": 0,
+                "height": 0
+            },
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "display": "flex",
+            "backgroundColor": "rgba(12, 29, 54, 1)"
+        },
+        "ShowStatusBar": true,
+        "StatusBarStyle": "default",
+        "TranslucentStatusBar": false,
+        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "TabNavigationOptions": {
+            "tabBarVisible": true
+        },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
+        },
+        "ScreenOrientation": "portrait",
+        "DesignerHeight": 667,
+        "DesignerWidth": 375,
+        "ResponsiveWidth": 375,
+        "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {}
+    },
+    "children": [
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "RAMshackle_white.png",
+                "resizeMode": "contain",
+                "Height": 109,
+                "Width": 115,
+                "Visible": true,
+                "X": 0,
+                "Y": 0,
+                "RelativeX": 0,
+                "RelativeY": 0,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "29.022212727864584%",
+                    "top": "6.991635749399926%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
+                "position": "absolute",
+                "edgeOffsets": 0.9921875
+            },
+            "children": [],
+            "id": "6584b2e2-ef4d-4c75-95c1-74871d3dc77b",
+            "thunkableVersion": 426,
+            "bindings": null,
+            "name": "NavLogout"
+        },
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "DM_banner_trans.png",
+                "resizeMode": "center",
+                "Height": 80,
+                "Width": 349,
+                "Visible": true,
+                "X": 9,
+                "Y": 586,
+                "RelativeX": 9,
+                "RelativeY": 586,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "29.022212727864584%",
+                    "top": "6.991635749399926%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
+                "position": "absolute",
+                "edgeOffsets": 586
+            },
+            "children": [],
+            "id": "452bde0b-e7ec-4f14-82e7-ec0903707a1a",
+            "thunkableVersion": 426,
+            "bindings": null,
+            "name": "FullBannerImg1"
+        },
+        {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "Logout",
+                "TextColor": "rgba(12, 29, 54, 1)",
+                "FontSize": 16,
+                "CustomFont": "",
+                "BackgroundColor": "rgba(249, 204, 11, 1)",
+                "Height": 49,
+                "Width": 311,
+                "Visible": true,
+                "X": 33,
+                "Y": 233,
+                "RelativeX": 33,
+                "RelativeY": 233,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "51.697357016265705%",
+                    "top": "36.78240727291742%",
+                    "display": "flex"
+                },
+                "FontBold": true,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "e2c90258-7cd4-4958-a102-46cbb07c28ff",
+                "position": "absolute",
+                "edgeOffsets": 227
+            },
+            "children": [],
+            "id": "7d5479f5-2081-4697-878b-6b79b2d1cfdd",
+            "thunkableVersion": 426,
+            "bindings": null,
+            "name": "btnLogout"
+        }
+    ],
+    "id": "4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb",
+    "thunkableVersion": 426,
+    "name": "Logout"
+}
