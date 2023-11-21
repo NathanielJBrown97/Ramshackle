@@ -52,7 +52,8 @@
         "ResponsiveWidth": 375,
         "isSimple": true,
         "navigationOptions": {
-            "headerStyle": {}
+            "headerStyle": {},
+            "drawerLabel": "User Details"
         },
         "tabNavigationOptions": {}
     },
