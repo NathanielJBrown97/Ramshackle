@@ -1,4 +1,5 @@
 {
+    "id": "4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -205,7 +206,6 @@
             "name": "btnLogout"
         }
     ],
-    "id": "4c1b9c76-15b3-4eb0-a6c9-5b46c330f6cb",
     "thunkableVersion": 426,
     "name": "Logout"
 }
