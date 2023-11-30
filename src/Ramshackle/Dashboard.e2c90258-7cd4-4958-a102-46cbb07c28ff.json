@@ -92,7 +92,7 @@
             "id": "51601401-0b4a-43a3-832c-8786c10bf182",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "RAMnavImg1"
+            "name": "NavDashboard"
         },
         {
             "type": "Label",
@@ -167,14 +167,14 @@
             "id": "94b52da5-96a4-4566-b802-bfb3498e4f68",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "WelcomLabel"
+            "name": "WelcomeLabel"
         },
         {
             "type": "Label",
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "{USER}!",
+                "Text": "",
                 "FontSize": 35,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -233,7 +233,7 @@
                 "position": "absolute",
                 "edgeOffsets": 57.99999999999999,
                 "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
-                "children": "{USER}!",
+                "children": "",
                 "letterSpacing": 0,
                 "textDecorationLine": "none",
                 "textDecorationStyle": "solid",
@@ -699,5 +699,5 @@
         }
     ],
     "thunkableVersion": 425,
-    "name": "Dashboard_Screen"
+    "name": "Dashboard"
 }

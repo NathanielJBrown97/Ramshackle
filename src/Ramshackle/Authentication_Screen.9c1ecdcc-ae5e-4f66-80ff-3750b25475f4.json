@@ -149,11 +149,11 @@
             "properties": {
                 "Text": "Email:",
                 "FontSize": 18,
-                "Height": 38,
-                "Width": 77,
+                "Height": 40,
+                "Width": 79,
                 "Visible": true,
-                "X": 45,
-                "Y": 45.97916793823242,
+                "X": 45.79999923706055,
+                "Y": 46,
                 "style": {
                     "marginTop": 0,
                     "marginBottom": 0,
@@ -183,7 +183,7 @@
                     "color": "rgba(255, 255, 255, 1)"
                 },
                 "position": "absolute",
-                "edgeOffsets": 45.97916793823242,
+                "edgeOffsets": 46.775001525878906,
                 "ParentId": "9c1ecdcc-ae5e-4f66-80ff-3750b25475f4",
                 "children": "Email:",
                 "letterSpacing": 0,
@@ -191,8 +191,8 @@
                 "textDecorationStyle": "solid",
                 "textDecorationColor": "rgba(0, 0, 0, 1)",
                 "writingDirection": "auto",
-                "RelativeX": 45,
-                "RelativeY": 45.97916793823242,
+                "RelativeX": 45.79999923706055,
+                "RelativeY": 46,
                 "FontWeight": "bold",
                 "Color": "rgba(255, 255, 255, 1)"
             },

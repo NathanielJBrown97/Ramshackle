@@ -1,5 +1,5 @@
 {
-    "id": "96ff0ecd-5794-4969-bbcf-86034312f824",
+    "id": "6fc9599b-a201-4f81-a5f6-a92e35504888",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -20,6 +20,14 @@
             "paddingBottom": 0,
             "paddingLeft": 0,
             "paddingRight": 0,
+            "shadowColor": "rgba(0, 0, 0, 0)",
+            "shadowOpacity": 0,
+            "scaledShadowOpacity": 0,
+            "shadowRadius": 0,
+            "shadowOffset": {
+                "width": 0,
+                "height": 0
+            },
             "flex": 1,
             "alignSelf": "stretch",
             "flexDirection": "column",
@@ -36,13 +44,218 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
+        "TabNavigatorIcon": {},
+        "DrawerNavigationOptions": {},
+        "StackNavigationOptions": {
+            "headerStyle": {}
+        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 677,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "navigationOptions": {
+            "headerStyle": {}
+        },
+        "tabNavigationOptions": {}
     },
     "children": [
+        {
+            "type": "DatePicker",
+            "label": "Date Input",
+            "translatedName": "Date Input",
+            "properties": {
+                "FormatStyle": "MM/DD/YYYY",
+                "Height": 28,
+                "Width": 97,
+                "Visible": false,
+                "X": 31,
+                "Y": 366,
+                "RelativeX": 31,
+                "RelativeY": 366,
+                "ResizeMode": "STRETCH",
+                "FontSize": 16,
+                "Color": "rgba(255, 255, 255, 1)",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "41.86666259765625%",
+                    "top": "8.015755184291914%",
+                    "display": "none",
+                    "fontSize": 16,
+                    "color": "rgba(255, 255, 255, 1)"
+                },
+                "ParentId": "6fc9599b-a201-4f81-a5f6-a92e35504888",
+                "position": "absolute",
+                "edgeOffsets": 366.00000000000006
+            },
+            "children": [],
+            "id": "b60d33a8-4234-434f-a2b6-40b041141ff3",
+            "thunkableVersion": 432,
+            "name": "Date_Input4"
+        },
+        {
+            "type": "DatePicker",
+            "label": "Date Input",
+            "translatedName": "Date Input",
+            "properties": {
+                "FormatStyle": "MM/DD/YYYY",
+                "Height": 26,
+                "Width": 99,
+                "Visible": false,
+                "X": 29,
+                "Y": 318,
+                "RelativeX": 29,
+                "RelativeY": 318,
+                "ResizeMode": "STRETCH",
+                "FontSize": 16,
+                "Color": "rgba(255, 255, 255, 1)",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "18.933329264322918%",
+                    "top": "48.193007769225446%",
+                    "display": "none",
+                    "fontSize": 16,
+                    "color": "rgba(255, 255, 255, 1)"
+                },
+                "ParentId": "6fc9599b-a201-4f81-a5f6-a92e35504888",
+                "position": "absolute",
+                "edgeOffsets": 318
+            },
+            "children": [],
+            "id": "9417404c-92e9-49a6-95e0-3ea5cd9a278a",
+            "thunkableVersion": 432,
+            "name": "Date_Input3"
+        },
+        {
+            "type": "DatePicker",
+            "label": "Date Input",
+            "translatedName": "Date Input",
+            "properties": {
+                "FormatStyle": "MM/DD/YYYY",
+                "Height": 26,
+                "Width": 99,
+                "Visible": false,
+                "X": 28,
+                "Y": 260,
+                "RelativeX": 28,
+                "RelativeY": 260,
+                "ResizeMode": "STRETCH",
+                "FontSize": 16,
+                "Color": "rgba(255, 255, 255, 1)",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "31.46666259765625%",
+                    "top": "10.822254445739476%",
+                    "display": "none",
+                    "fontSize": 16,
+                    "color": "rgba(255, 255, 255, 1)"
+                },
+                "ParentId": "6fc9599b-a201-4f81-a5f6-a92e35504888",
+                "position": "absolute",
+                "edgeOffsets": 260
+            },
+            "children": [],
+            "id": "27d1bb9c-7adf-4370-bfe4-c9bb41d4fcf3",
+            "thunkableVersion": 432,
+            "name": "Date_Input2"
+        },
+        {
+            "type": "DatePicker",
+            "label": "Date Input",
+            "translatedName": "Date Input",
+            "properties": {
+                "FormatStyle": "MM/DD/YYYY",
+                "Height": 30,
+                "Width": 98,
+                "Visible": false,
+                "X": 29,
+                "Y": 203,
+                "RelativeX": 29,
+                "RelativeY": 203,
+                "ResizeMode": "STRETCH",
+                "FontSize": 16,
+                "Color": "rgba(255, 255, 255, 1)",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "30.399995930989583%",
+                    "top": "10.083702008516433%",
+                    "display": "none",
+                    "fontSize": 16,
+                    "color": "rgba(255, 255, 255, 1)"
+                },
+                "ParentId": "6fc9599b-a201-4f81-a5f6-a92e35504888",
+                "position": "absolute",
+                "edgeOffsets": 203
+            },
+            "children": [],
+            "id": "df793913-6812-45dd-9b04-9f7c0092fd24",
+            "thunkableVersion": 432,
+            "name": "Date_Input1"
+        },
         {
             "type": "Image",
             "translatedName": "Image",
@@ -84,9 +297,9 @@
                 "edgeOffsets": 0.9921875
             },
             "children": [],
-            "id": "075c7ff4-abbb-4839-b367-6e9280ddfccc",
+            "id": "5636723a-7085-4765-bad8-6813aad673ed",
             "thunkableVersion": 421,
-            "name": "RAMnavImg"
+            "name": "NavProjects"
         },
         {
             "type": "Button",
@@ -97,13 +310,13 @@
                 "FontSize": 16,
                 "CustomFont": "",
                 "BackgroundColor": "rgba(249, 204, 11, 1)",
-                "Height": 38,
-                "Width": 47,
+                "Height": 40,
+                "Width": 49,
                 "Visible": true,
-                "X": 304,
-                "Y": 4,
-                "RelativeX": 304,
-                "RelativeY": 4,
+                "X": 305,
+                "Y": 5,
+                "RelativeX": 305,
+                "RelativeY": 5,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -134,20 +347,20 @@
                 "Disabled": false,
                 "ParentId": "e2c90258-7cd4-4958-a102-46cbb07c28ff",
                 "position": "absolute",
-                "edgeOffsets": 4
+                "edgeOffsets": 5
             },
             "children": [],
-            "id": "1faf9ff6-596d-4c99-84e7-d2254641e1ff",
+            "id": "c4fd3aa5-8469-4f60-8763-a7f3e4d9d602",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "ReturnButt1"
+            "name": "btnReturntoDash"
         },
         {
             "type": "Label",
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "Kitchen \\nLet's Plan",
+                "Text": "",
                 "FontSize": 35,
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -204,7 +417,7 @@
                 "position": "absolute",
                 "edgeOffsets": 4,
                 "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
-                "children": "Kitchen \nLet's Plan",
+                "children": "",
                 "letterSpacing": 0,
                 "textDecorationLine": "none",
                 "textDecorationStyle": "solid",
@@ -212,10 +425,10 @@
                 "writingDirection": "auto"
             },
             "children": [],
-            "id": "37249fa6-e373-4d92-9b8e-a96a757fb779",
+            "id": "7ca5185e-554b-4b53-b5b1-127f824bf0f6",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenPlanLabel"
+            "name": "lblHeader"
         },
         {
             "type": "Label",
@@ -287,7 +500,7 @@
                 "writingDirection": "auto"
             },
             "children": [],
-            "id": "d2a517cf-a5c1-4ce1-a394-3197adc33edb",
+            "id": "0e541b39-98ae-479f-8c11-afb61b540738",
             "thunkableVersion": 425,
             "bindings": null,
             "name": "DateHeaderLabel"
@@ -362,7 +575,7 @@
                 "writingDirection": "auto"
             },
             "children": [],
-            "id": "e4045c62-44f6-413f-a468-faea61dfa89a",
+            "id": "4b799849-fd02-4b3b-b8dc-cbad90a5d6b4",
             "thunkableVersion": 425,
             "bindings": null,
             "name": "ProjectHeaderLabel"
@@ -416,9 +629,9 @@
                 "edgeOffsets": 203
             },
             "children": [],
-            "id": "1393d366-7663-47f8-8e21-306a5d6ea6a9",
+            "id": "48c7e1b0-23e8-4154-8689-00212669ec1f",
             "thunkableVersion": 425,
-            "name": "KitchenAddNewButt1"
+            "name": "btnAddProject1"
         },
         {
             "type": "Button",
@@ -469,10 +682,10 @@
                 "edgeOffsets": 253
             },
             "children": [],
-            "id": "f63c43b5-973e-49d5-a2c5-98ee74e6c231",
+            "id": "abfeced7-b8c0-4cbe-96c7-c0ccbcd9c634",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenAddNewButt2"
+            "name": "btnAddProject2"
         },
         {
             "type": "Button",
@@ -523,10 +736,10 @@
                 "edgeOffsets": 307
             },
             "children": [],
-            "id": "a5fb9a09-b3ba-433e-b2d8-717139c3f1f5",
+            "id": "5e2655c0-4f53-40f7-9807-e730c3d78d29",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenAddNewButt3"
+            "name": "btnAddProject3"
         },
         {
             "type": "Button",
@@ -577,10 +790,10 @@
                 "edgeOffsets": 355
             },
             "children": [],
-            "id": "6909f83e-bb85-4226-b242-36096d6ec60b",
+            "id": "43d02d69-7cae-41fc-8f50-3d1611f13d53",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenAddNewButt4"
+            "name": "btnAddProject4"
         },
         {
             "type": "Button",
@@ -631,10 +844,10 @@
                 "edgeOffsets": 203
             },
             "children": [],
-            "id": "82a97f4c-2ad6-4524-a014-e8697fbf1d1a",
+            "id": "00a2c5ff-0ed5-47c7-9b8f-e887bdc6b7c9",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt1"
+            "name": "btnEditProject1"
         },
         {
             "type": "Button",
@@ -685,10 +898,10 @@
                 "edgeOffsets": 260
             },
             "children": [],
-            "id": "990b5bfa-b610-4c30-b28b-e227c8d44f40",
+            "id": "692ba59f-e953-4dd7-abe9-fd55de40f368",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt2"
+            "name": "btnEditProject2"
         },
         {
             "type": "Button",
@@ -739,10 +952,10 @@
                 "edgeOffsets": 312
             },
             "children": [],
-            "id": "48edc772-caa1-4229-9135-772b97bba188",
+            "id": "39b4eee8-d2c2-4470-a7d3-fcd1b515242f",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt3"
+            "name": "btnEditProject3"
         },
         {
             "type": "Button",
@@ -793,10 +1006,10 @@
                 "edgeOffsets": 361
             },
             "children": [],
-            "id": "5a75b174-855f-4430-982d-385d90d61852",
+            "id": "1f1f3355-6a52-4a57-a13a-e5ae9d8ac173",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenEditButt4"
+            "name": "btnEditProject4"
         },
         {
             "type": "Group",
@@ -876,10 +1089,10 @@
                         "edgeOffsets": 203.00000000000003
                     },
                     "children": [],
-                    "id": "4d5c97b8-8269-4039-a78c-fbfc260c1b4b",
+                    "id": "4878d218-3b11-40f9-9ec0-d65b6872c32a",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt1"
+                    "name": "btnProject1View"
                 },
                 {
                     "type": "Button",
@@ -930,33 +1143,34 @@
                         "edgeOffsets": 201
                     },
                     "children": [],
-                    "id": "ae7b175e-68b2-40d6-aaa9-71b2837ff7f6",
+                    "id": "5ad3061b-3a62-48f5-ae62-c42614d72d8d",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt1"
+                    "name": "btnProject1Save"
                 },
                 {
                     "type": "Label",
                     "translatedName": "Label",
                     "reactType": "Text",
                     "properties": {
-                        "Text": "",
+                        "Text": "Hi",
                         "FontSize": 14,
                         "CustomFont": "",
                         "LineHeight": 1,
                         "Color": "rgba(255, 255, 255, 1)",
-                        "TextAlign": "center",
-                        "Height": 27,
-                        "Width": 70,
+                        "TextAlign": "left",
+                        "Height": 32,
+                        "Width": 80,
                         "Visible": false,
-                        "X": 42,
-                        "Y": 201,
-                        "RelativeX": 20,
-                        "RelativeY": 11,
+                        "X": 37,
+                        "Y": 202,
+                        "RelativeX": 15,
+                        "RelativeY": 12,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 14,
                             "fontStyle": "normal",
+                            "textShadowOffset": {},
                             "letterSpacing": 0,
                             "textDecorationLine": "none",
                             "textDecorationStyle": "solid",
@@ -984,21 +1198,21 @@
                                 "height": 0
                             },
                             "position": "absolute",
-                            "left": "13.350048505827145%",
-                            "top": "41.25120090406599%",
+                            "left": "41.733333333333334%",
+                            "top": "23.661373707533233%",
                             "lineHeight": 1,
                             "display": "none",
-                            "textAlign": "center"
+                            "textAlign": "left"
                         },
-                        "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
+                        "ParentId": "6fc9599b-a201-4f81-a5f6-a92e35504888",
                         "position": "absolute",
-                        "edgeOffsets": 201,
-                        "children": ""
+                        "edgeOffsets": 202,
+                        "children": "Hi"
                     },
                     "children": [],
-                    "id": "920945d3-663f-45f2-b64e-d4727719b027",
-                    "thunkableVersion": 425,
-                    "name": "KitchenDLabel1"
+                    "id": "b5b4ee3d-c36a-4d5d-876f-53318a19c612",
+                    "thunkableVersion": 430,
+                    "name": "labelProject1Date"
                 },
                 {
                     "type": "TextInput",
@@ -1059,9 +1273,9 @@
                         "placeholder": "Enter Date"
                     },
                     "children": [],
-                    "id": "b97c228b-4921-428e-9a18-0e52b953c858",
+                    "id": "ebc889a1-cab6-4c6a-8a48-05767220781e",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput1"
+                    "name": "inputProject1Date"
                 },
                 {
                     "type": "Label",
@@ -1125,10 +1339,10 @@
                         "children": ""
                     },
                     "children": [],
-                    "id": "cd728123-0876-4053-b822-f1c0ed354720",
+                    "id": "b51bb6a7-d90d-4492-84d8-153051b6049c",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel1"
+                    "name": "labelProject1Name"
                 },
                 {
                     "type": "TextInput",
@@ -1189,15 +1403,15 @@
                         "placeholder": "Enter Plan"
                     },
                     "children": [],
-                    "id": "e70f36cb-961c-45fe-9f87-fd130dd03114",
+                    "id": "fb0b8ef1-2630-4d78-94bd-e5d3e33b0580",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput1"
+                    "name": "inputProject1Name"
                 }
             ],
-            "id": "acdbc670-b03c-4577-aa71-180080b1d115",
+            "id": "a2a2eb77-58d1-46f6-a3f6-0c4bb2b57b02",
             "thunkableVersion": 425,
-            "name": "KitchenGroup1"
+            "name": "ProjectGroup1"
         },
         {
             "type": "Group",
@@ -1277,10 +1491,10 @@
                         "edgeOffsets": 203.00000000000003
                     },
                     "children": [],
-                    "id": "121aa775-5e23-4cc7-afa1-5d7191c82eeb",
+                    "id": "e45fe5a0-4b55-40eb-844e-d5777b67cbcb",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt2"
+                    "name": "btnProject2View"
                 },
                 {
                     "type": "Button",
@@ -1331,9 +1545,9 @@
                         "edgeOffsets": 201
                     },
                     "children": [],
-                    "id": "f6694235-040d-489c-b6ba-700e1fe1ea11",
+                    "id": "de8056fa-d6cf-4daa-a5d0-b030e4290762",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt2"
+                    "name": "btnProject2Save"
                 },
                 {
                     "type": "Label",
@@ -1397,9 +1611,9 @@
                         "children": ""
                     },
                     "children": [],
-                    "id": "18bb2557-dfdd-446f-abe1-3c3865962009",
+                    "id": "49dd1f30-d784-4c67-b7fb-a0cbab2da4a0",
                     "thunkableVersion": 425,
-                    "name": "KitchenDLabel2"
+                    "name": "labelProject2Date"
                 },
                 {
                     "type": "TextInput",
@@ -1460,9 +1674,9 @@
                         "placeholder": "Enter Date"
                     },
                     "children": [],
-                    "id": "a697be52-ba6b-4190-bb83-932f556f15f1",
+                    "id": "5418df66-40db-47b8-8d07-4bf6b31139d6",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput2"
+                    "name": "inputProject2Date"
                 },
                 {
                     "type": "Label",
@@ -1526,10 +1740,10 @@
                         "children": ""
                     },
                     "children": [],
-                    "id": "3271d18f-66b5-4b99-8fdb-2b905a4526b2",
+                    "id": "cf97c71d-8d03-4593-b224-e70031eb71bc",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel2"
+                    "name": "labelProject2Name"
                 },
                 {
                     "type": "TextInput",
@@ -1590,16 +1804,16 @@
                         "placeholder": "Enter Plan"
                     },
                     "children": [],
-                    "id": "5ed7f4cf-143d-444d-b961-9a0f41a5de20",
+                    "id": "b3ad2ee7-d96b-45cf-901e-6621edb4060c",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput2"
+                    "name": "inputProject2Name"
                 }
             ],
-            "id": "76df7706-df81-4bbd-82db-1d5a15f950fe",
+            "id": "414aab65-4109-4ef7-85e9-307c10d25d46",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenGroup2"
+            "name": "ProjectGroup2"
         },
         {
             "type": "Group",
@@ -1679,10 +1893,10 @@
                         "edgeOffsets": 203.00000000000003
                     },
                     "children": [],
-                    "id": "568f41db-c322-49a8-aba7-7eb79cd4a1c7",
+                    "id": "cddcf78f-d007-415d-bb8c-a7248fcb4838",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt3"
+                    "name": "btnProject3View"
                 },
                 {
                     "type": "Button",
@@ -1733,9 +1947,9 @@
                         "edgeOffsets": 201
                     },
                     "children": [],
-                    "id": "ad7a09cb-7848-449e-80c9-ea1a902ff70e",
+                    "id": "9decd8c2-02a1-4a78-890a-36c9860566a5",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt3"
+                    "name": "btnProject3Save"
                 },
                 {
                     "type": "Label",
@@ -1799,9 +2013,9 @@
                         "children": ""
                     },
                     "children": [],
-                    "id": "5fa751b6-8ede-48fb-84d1-e158be4736aa",
+                    "id": "560763b7-a094-4865-bffc-717c75921119",
                     "thunkableVersion": 425,
-                    "name": "KitchenDLabel3"
+                    "name": "labelProject3Date"
                 },
                 {
                     "type": "TextInput",
@@ -1862,9 +2076,9 @@
                         "placeholder": "Enter Date"
                     },
                     "children": [],
-                    "id": "0889cec4-5a32-4e8f-b707-d193cc948ff3",
+                    "id": "55fbd574-cd97-47fd-9077-b15ce4661073",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput3"
+                    "name": "inputProject3Date"
                 },
                 {
                     "type": "Label",
@@ -1928,10 +2142,10 @@
                         "children": ""
                     },
                     "children": [],
-                    "id": "93ffc38d-26d7-447e-83c7-9b56c4cfadbe",
+                    "id": "bb18aa63-954c-4c7c-9ece-3df3c73554f9",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel3"
+                    "name": "labelProject3Name"
                 },
                 {
                     "type": "TextInput",
@@ -1992,16 +2206,16 @@
                         "placeholder": "Enter Plan"
                     },
                     "children": [],
-                    "id": "7bbe3dbf-d4c3-4db1-b973-bb67feaf6eee",
+                    "id": "db208ee0-4611-4365-b8f3-32bfee2bb99b",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput3"
+                    "name": "inputProject3Name"
                 }
             ],
-            "id": "9ed87534-e411-459b-b6f4-995a02b256c2",
+            "id": "285f1b54-3659-40c8-8e5f-7e0846016ea5",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenGroup3"
+            "name": "ProjectGroup3"
         },
         {
             "type": "Group",
@@ -2081,10 +2295,10 @@
                         "edgeOffsets": 203.00000000000003
                     },
                     "children": [],
-                    "id": "617c043a-36dc-4ef4-8003-530f0df74c2c",
+                    "id": "f5c782b9-aeb7-4dd7-baf9-166cac1e4498",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenViewButt4"
+                    "name": "btnProject4View"
                 },
                 {
                     "type": "Button",
@@ -2135,9 +2349,9 @@
                         "edgeOffsets": 201
                     },
                     "children": [],
-                    "id": "1fbc7453-8066-442c-ac48-65e5e195285a",
+                    "id": "1ccc4d62-ce03-4082-917e-3838a8f5a15b",
                     "thunkableVersion": 425,
-                    "name": "KitchenSaveButt4"
+                    "name": "btnProject4Save"
                 },
                 {
                     "type": "Label",
@@ -2201,9 +2415,9 @@
                         "children": ""
                     },
                     "children": [],
-                    "id": "84495a64-4ea4-4add-b965-e7cc043fce8f",
+                    "id": "e7ec69fd-f012-40e8-8a85-f9c9a9912007",
                     "thunkableVersion": 425,
-                    "name": "KitchenDLabel4"
+                    "name": "labelProject4Date"
                 },
                 {
                     "type": "TextInput",
@@ -2264,9 +2478,9 @@
                         "placeholder": "Enter Date"
                     },
                     "children": [],
-                    "id": "295b6fba-0a8a-4f4c-950f-edc02fa54308",
+                    "id": "3bab7f04-c8ad-4294-b99d-9dac7eca4931",
                     "thunkableVersion": 425,
-                    "name": "KitchenDInput4"
+                    "name": "inputProject4Date"
                 },
                 {
                     "type": "Label",
@@ -2330,10 +2544,10 @@
                         "children": ""
                     },
                     "children": [],
-                    "id": "96316b7e-05d1-4d15-9fc8-925ff0616693",
+                    "id": "9968bde5-9a8a-4f62-81b8-4f2499ff0cda",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPLabel4"
+                    "name": "labelProject4Name"
                 },
                 {
                     "type": "TextInput",
@@ -2394,16 +2608,16 @@
                         "placeholder": "Enter Plan"
                     },
                     "children": [],
-                    "id": "ceccd4c8-2fd0-46d8-83c8-ae38b5be04fc",
+                    "id": "191856cf-8ff5-44c6-913d-7a625f52bd27",
                     "thunkableVersion": 425,
                     "bindings": null,
-                    "name": "KitchenPInput4"
+                    "name": "inputProject4Name"
                 }
             ],
-            "id": "2de34bc0-1ffc-4c1b-a849-653c9c04c31c",
+            "id": "16be1a37-0719-459a-bc12-72ccd63e6bba",
             "thunkableVersion": 425,
             "bindings": null,
-            "name": "KitchenGroup4"
+            "name": "ProjectGroup4"
         },
         {
             "type": "Label",
@@ -2465,9 +2679,9 @@
                 "children": ""
             },
             "children": [],
-            "id": "183504a5-cf9b-492c-98dd-7940deb8620a",
+            "id": "1abdd89e-3636-4da1-95d1-b616bb2082c7",
             "thunkableVersion": 425,
-            "name": "KitchenErrorLabel"
+            "name": "ErrorLabel"
         },
         {
             "type": "AdMobBanner",
@@ -2495,11 +2709,12 @@
                 }
             },
             "children": [],
-            "id": "fd254330-4bf1-4af2-976a-307f39a2cb75",
+            "id": "7e136b6a-5920-45a5-b8f4-43b42ed004dd",
             "thunkableVersion": 423,
-            "name": "ScumAd2"
+            "name": "ScumAd7"
         }
     ],
-    "thunkableVersion": 267,
-    "name": "Kitchen_Screen"
+    "thunkableVersion": 426,
+    "bindings": null,
+    "name": "Planning_Screen"
 }
