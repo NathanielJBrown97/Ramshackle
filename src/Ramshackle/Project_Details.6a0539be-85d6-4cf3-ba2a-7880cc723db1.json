@@ -41,20 +41,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -558,7 +549,6 @@
                     "top": "61.771823613804415%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "6a0539be-85d6-4cf3-ba2a-7880cc723db1",
                 "position": "absolute",
                 "edgeOffsets": 410
@@ -585,7 +575,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 16,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -655,7 +644,6 @@
                     "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -721,7 +709,6 @@
                     "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 28,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -797,7 +784,6 @@
                     "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 27,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -873,7 +859,6 @@
                     "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 30,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -962,7 +947,6 @@
                     "top": "6.991635749399926%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "96ff0ecd-5794-4969-bbcf-86034312f824",
                 "position": "absolute",
                 "edgeOffsets": 0.9921875
