@@ -1,115 +1,55 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
-  "properties": {
-    "1TP4NjFOdEUhCYIA0c55LgdvObS2": {
+    "wxFpbSX0xHUII4g15EB5qI1ezbM2": {
       "type": "object",
       "properties": {
-        "bathroom": {
-          "type": "object",
-          "properties": {
-            "project1": {
-              "type": "object",
-              "properties": {
-                "BD1": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "BP1": {
-                  "type": "string"
-                }
-              }
-            },
-            "project2": {
-              "type": "object",
-              "properties": {
-                "BD2": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "BP2": {
-                  "type": "string"
-                }
-              }
-            },
-            "project3": {
-              "type": "object",
-              "properties": {
-                "BD3": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "BP3": {
-                  "type": "string"
-                }
-              }
-            },
-            "project4": {
-              "type": "object",
-              "properties": {
-                "BD4": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "BP4": {
-                  "type": "string"
-                }
-              }
-            }
-          }
+        "Bathroom": {
+          "$ref": "#/definitions/project"
         },
-        "kitchen": {
+        "Dining Room": {
+          "$ref": "#/definitions/project"
+        },
+        "Home": {
+          "$ref": "#/definitions/project"
+        },
+        "Kitchen": {
+          "$ref": "#/definitions/project"
+        },
+        "Living Room": {
+          "$ref": "#/definitions/project"
+        },
+        "Outside": {
+          "$ref": "#/definitions/project"
+        },
+        "name": {
+          "type": "string"
+        },
+        "ThemeLayout": {
+          "type": "boolean"
+      }
+    }
+  },
+  "definitions": {
+    "project": {
+      "type": "object",
+      "properties": {
+        "Project1": {
           "type": "object",
           "properties": {
-            "project1": {
-              "type": "object",
-              "properties": {
-                "KD1": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "KP1": {
-                  "type": "string"
-                }
-              }
+            "ProjectDate": {
+              "type": "string",
+              "format": "date"
             },
-            "project2": {
-              "type": "object",
-              "properties": {
-                "KD2": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "KP2": {
-                  "type": "string"
-                }
-              }
+            "ProjectDetails": {
+              "type": "string"
             },
-            "project3": {
-              "type": "object",
-              "properties": {
-                "KD3": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "KP3": {
-                  "type": "string"
-                }
-              }
+            "ProjectInvoice": {
+              "type": "string"
             },
-            "project4": {
-              "type": "object",
-              "properties": {
-                "KD4": {
-                  "type": "string",
-                  "format": "date"
-                },
-                "KP4": {
-                  "type": "string"
-                }
-              }
+            "ProjectName": {
+              "type": "string"
             }
-          }
+          },
+          "required": ["ProjectDate", "ProjectDetails", "ProjectInvoice", "ProjectName"]
         }
       }
     }
