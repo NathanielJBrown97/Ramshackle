@@ -1,4 +1,7 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
     "wxFpbSX0xHUII4g15EB5qI1ezbM2": {
       "type": "object",
       "properties": {
@@ -25,9 +28,12 @@
         },
         "ThemeLayout": {
           "type": "boolean"
-      }
+        }
+      },
+      "required": ["name", "ThemeLayout"]
     }
   },
+  "required": ["wxFpbSX0xHUII4g15EB5qI1ezbM2"],
   "definitions": {
     "project": {
       "type": "object",
@@ -43,7 +49,8 @@
               "type": "string"
             },
             "ProjectInvoice": {
-              "type": "string"
+              "type": "string",
+              "format": "uri"
             },
             "ProjectName": {
               "type": "string"
