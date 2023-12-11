@@ -11,7 +11,7 @@ Jonathan Pincince
 Hannah Naphosaysavath  
 
 ## Finding Ramshackle App in the Google playstore(or internal testers only)
-1. Click this link which will bring you to the webpage for the app on the Google play store: [Google play link][[https://play.google.com/store/apps/details?id=edu.uri.nathanieljbro.ramshacklev2&hl=en-US&ah=d7UvsRi6QHpcajvgC8areAW9ZLc&pli=1](https://play.google.com/apps/internaltest/4700584360249102088](https://play.google.com/apps/internaltest/4700584360249102088))
+1. Click this link which will bring you to the webpage for the app on the Google play store: [Google play link](https://play.google.com/store/apps/details?id=edu.uri.nathanieljbro.ramshacklev2&hl=en-US&ah=d7UvsRi6QHpcajvgC8areAW9ZLc)
 
 If on phone only
 3. Clicking this link may ask to open another app; click yes.
