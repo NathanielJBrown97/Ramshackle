@@ -397,7 +397,7 @@
             "properties": {
                 "Height": 69,
                 "Width": 339,
-                "Visible": true,
+                "Visible": false,
                 "X": 16,
                 "Y": 129,
                 "BackgroundPictureResizeMode": "contain",
@@ -410,7 +410,7 @@
                     "height": 93,
                     "flex": 0,
                     "width": 374,
-                    "display": "flex",
+                    "display": "none",
                     "shadowColor": "rgba(255, 255, 255, 1)",
                     "scaledShadowOpacity": 100,
                     "shadowRadius": 0,

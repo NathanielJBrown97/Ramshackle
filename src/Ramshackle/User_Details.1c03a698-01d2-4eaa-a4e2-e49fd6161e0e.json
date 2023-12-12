@@ -89,9 +89,9 @@
                     "flexWrap": "wrap",
                     "borderWidth": 0,
                     "borderRadius": 0,
-                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderColor": "rgba(0, 0, 0, 0)",
                     "borderStyle": "solid",
-                    "shadowColor": "rgba(255, 255, 255, 1)",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
                     "shadowOpacity": 0,
                     "scaledShadowOpacity": 100,
                     "shadowRadius": 0,
@@ -106,7 +106,8 @@
                     "flex": 0,
                     "width": 305,
                     "display": "flex",
-                    "lineHeight": 1
+                    "lineHeight": 1,
+                    "backgroundColor": "rgba(0, 0, 0, 0)"
                 },
                 "position": "absolute",
                 "edgeOffsets": 399,
@@ -116,7 +117,8 @@
                 "textDecorationStyle": "solid",
                 "textDecorationColor": "rgba(0, 0, 0, 1)",
                 "writingDirection": "auto",
-                "children": ""
+                "children": "",
+                "BackgroundColor": "rgba(0, 0, 0, 0)"
             },
             "children": [],
             "id": "11655753-815b-4a22-aa33-1cc9bb857139",
