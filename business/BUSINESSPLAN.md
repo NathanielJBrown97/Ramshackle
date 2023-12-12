@@ -26,4 +26,7 @@ https://docs.google.com/presentation/d/1ricvnaZPwV4M9V-Srzndxe67yf9PfFEnm7sXRtKr
 - These home owners (of two years or more) are in desperate need of a notification system that functions off of their logged personal profile information. Ramshackle provides this by sending notifications based upon relevant data entries in their profile accounts, providing up to date and relevant information for users.
   
 Link to Persona Grids for Ramshackle:  
-https://docs.google.com/presentation/d/16v2JjJTVJLfhwuolZUUyFaLBp2G5Ai34UNWlqnqWJRQ/edit?usp=sharing
+https://docs.google.com/presentation/d/16v2JjJTVJLfhwuolZUUyFaLBp2G5Ai34UNWlqnqWJRQ/edit?usp=sharing  
+  
+### Link to Lean Canvas Model    
+https://docs.google.com/presentation/d/1ricvnaZPwV4M9V-Srzndxe67yf9PfFEnm7sXRtKrk4E/edit?usp=sharing
