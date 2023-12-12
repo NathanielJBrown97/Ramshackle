@@ -1,15 +1,17 @@
-# Observation 1: Light or Dark Mode
+# Observation 1: Issue with navigation
 **Observation Statement:**  
-Users would prefer an option to toggle between a dark or light theme within the app.  
+Overall users were able to  navigate through the fairly easy. Some people did have trouble some navigating though
 **Supporting Data:**  
-An overwhelming majority (75%) of 16 user responses indicated that they would prefer a toggle option. Notably 18.8% would prefer a dark theme, the remaining opted into a light theme.  
+The majority of users, 60% were satisfied with navigation. One person did comment saying that “instead of the Ramshackle logo there may be a more intuitive way of locating the menu bar; the Ramshackle / menu bar should be accessible throughout the application not just from the main menu”
 **Team Action:**  
-Based on this feedback the team will work on implementing a dark mode first, and further expand with an option to toggle into light mode in the future.  
+Based on this feedback we could alter the app so that the navigation works on each page and maybe add a button somewhere on the top of the application which says menu, or a common symbol used as menu such as a stack of 3 lines. Since most of the respondents did have issues though this would not be a priority issue to resolve.
 
-# Observation 2: Average age of Users
+
+# Observation 2: Various improvements can be made 
 **Observation Statement:**  
-More than 70% of users are over the age of 23.   
-**Supporting Data:**  
-According to the user responses only 6 responses came from users under the age of 24.  
+Overall, respondants had mostly positive feedback regarding the application. A handful of them did comment though on ways the application could be improved
+ **Supporting Data:**  
+A respondent responded with a comment of “Date fields are not wide enough, light mode/dark mode is inconsistent. As well as a suggestion to export projects into an excel sheet, for those that like to manage locally and organize personal data.”
 **Team Action:**  
-None. Ramshackle is independent of age demographics; this is just an observational statement about our demographic.
+We can create various user stories to address each improvement and make address them each with a given priority. 
+
