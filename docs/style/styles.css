@@ -1,14 +1,6 @@
-/* #header{
-  background-color: #0C1D36; 
-  height: 110px; 
-  /* position: fixed; */
-/*} */
-
-/**/
 .topnav {
     background-color: #122b4f;
     overflow: hidden;
-    position: fixed;
     width: 100%;
   }
   
@@ -21,6 +13,7 @@
     text-decoration: none;
     font-size: 17px;
     font-family: customFont;
+    display: block;
   }
   
   /* Change the color of links on hover */
@@ -38,18 +31,16 @@
   body{
     text-align: center;
     background-color: #0C1D36;
-    /* background-image: url("./images/icon.png"); */
 }
 
 .bodyContent{
-    /* background-image: url("./images/icon.png"); */
-    /* position: relative; */
     padding-top: 50px;
     margin: auto;
+    display: inline-block;
 }
+
 #divider{
     height: 100px;
-    /* position: absolute; */
     background-image: url("../images/icon.png");
     background-repeat: repeat-x;
 }
@@ -58,9 +49,24 @@
 .content {
   background-color: #122b4f; 
   border-radius: 10px;
-  padding: 60px;
-  margin: -20px;
+  padding: 20px;
+  margin: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   font-family: customFont; 
   color:white;
+}
+
+.feature {
+  display: block;
+  top: 0;
+}
+
+#header{
+  display: block;
+  position: sticky;
+}
+
+.sectionHeader {
+  font-size: 30px;
+  color: cadetblue;
 }
