@@ -13,7 +13,8 @@
     </style>
 </head>
 <body>
-    <header>
+    <header class="feature">
+        <img src="./images/featuregraphic.png" alt="featuregraphic" style="width: 100%;" />
         <div class="topnav">
             <a href="#home" style="padding: 2px;"><img src="./images/iconMenu.png" alt="Home" style="height:40px; padding:0px; margin: 0px;"></a>
             <a href="#about">Who Are We?</a>
@@ -27,20 +28,28 @@
     </header>
     
     <div class="bodyContent" id="home">
-        <div>
+        <!-- <div>
             <h1>
                 <img src="./images/logo.png" alt="Ramshackle Logo" style="height: 100px;"/>
             </h1>
-        </div>
+        </div> -->
         <div id="about" class="content">
+            <p class="sectionHeader">
+                What Is Ramshackle?
+            </p>
             <p style="font-family: customFont; color:white;">
                 Ramshackle is an app created to help you keep track of your home maintenance repairs 
                 and manage documents and notes associated with those projects.<br/>
                 We understand the challenges of maintaining and repairing your home. Our app keeps 
                 you organized so you can focus on keeping your home standing.
             </p>
-        </div>
-        <div id="features" class="content">
+            <div id="demo">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/PKnhRtlO06g?si=RJozER_Z4gM1pIs6" 
+                title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            <p class="sectionHeader" id="features">
+                Ramshackle Features
+            </p>
             <ul style="width:25%; text-align: left;">
                 <li>
                     Create project folders
@@ -53,18 +62,14 @@
                 </li>
             </ul>
         </div>
-        <div id="demo" class="content" style="height:200px; color:cadetblue">
-            <p>{Video Demo}</p>
-            <div style=" margin-top: 75px;"></div>
-            <div>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/PKnhRtlO06g?si=RJozER_Z4gM1pIs6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div id="howto" class="content" style="height:200px; color:cadetblue">
+            <p class="sectionHeader">How To Use Ramshackle</p>
+            <div style="display: grid;">
+                
             </div>
         </div>
-        <div id="howto" class="content" style="height:200px; color:cadetblue">
-            <p>{Instructions}</p>
-        </div>
         <div id="tryit" class="content" style="color:cadetblue;">
-            <div style=" margin-top: 75px;"></div>
+            <p class="sectionHeader">Test Out Ramshackle!</p>
             <div>
                 <iframe src="https://thunkable.site/w/oGnXR3pAJNuRizli7sb5G" title="Chop Down the Tree Thunkable App" height = 725 width = 450 frameborder="0"></iframe>
             </div>
