@@ -10,7 +10,7 @@ Rebecca Iselin
 Jonathan Pincince  
 Hannah Naphosaysavath  
 
-## Finding Ramshackle App in the Google playstore(or internal testers only)
+## Finding Ramshackle App in the Google playstore (for internal testers only)
 1. Click this link which will bring you to the webpage for the app on the Google play store: [Google play link](https://play.google.com/store/apps/details?id=edu.uri.nathanieljbro.ramshacklev2&hl=en-US&ah=d7UvsRi6QHpcajvgC8areAW9ZLc)
 
 If on phone only
@@ -28,10 +28,3 @@ if using phone or computer
 5. select the device you want to install it on and click the install button in the pop-up
 * This may take several minutes to show up on the app screen of your device.
 * If it still does not show repeat the process
-
-## Project Description - Goals - Ect
-
-This will be filled out in the future as we have a more accurate message.  
-
-
-
