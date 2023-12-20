@@ -70,3 +70,21 @@
   font-size: 30px;
   color: cadetblue;
 }
+
+.grid-item {
+  height: 500px;
+  width: 250px;
+  display: inline;
+  column-gap: 50px;
+  margin: 15px;
+}
+
+#grid-container {
+  width:95%; 
+  padding:10px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+}
